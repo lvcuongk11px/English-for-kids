@@ -1,0 +1,919 @@
+{
+  "schemaVersion": 1,
+  "lessons": [
+    {
+      "id": "school_pre_starters_2_week_1_animals",
+      "title": "Animals",
+      "vietnameseTitle": "Động vật",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 1,
+      "schoolLevel": "Pre-Starters 2",
+      "vocabularyIds": [
+        "horse",
+        "mouse",
+        "sheep",
+        "goat",
+        "buffalo",
+        "rabbit",
+        "snake",
+        "frog"
+      ],
+      "sentencePatterns": [
+        "What animal is it?",
+        "What colour animal is it?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_1_week_1_shapes",
+      "title": "Shapes",
+      "vietnameseTitle": "Hình dạng",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 1,
+      "schoolLevel": "Pre-Starters 1",
+      "vocabularyIds": [
+        "circle",
+        "square",
+        "triangle",
+        "star",
+        "heart",
+        "diamond",
+        "oval",
+        "rectangle"
+      ],
+      "sentencePatterns": [
+        "What shape is it?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_1_week_11_food",
+      "title": "Food",
+      "vietnameseTitle": "Đồ ăn",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 11,
+      "schoolLevel": "Pre-Starters 1",
+      "vocabularyIds": [
+        "rice",
+        "soup",
+        "chicken",
+        "milk",
+        "onion",
+        "water",
+        "beef",
+        "noodles",
+        "carrot"
+      ],
+      "sentencePatterns": [
+        "What is this?",
+        "What do you like?",
+        "What don’t you like?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_1_week_12_nature",
+      "title": "Nature",
+      "vietnameseTitle": "Thiên nhiên",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 12,
+      "schoolLevel": "Pre-Starters 1",
+      "vocabularyIds": [
+        "river",
+        "mountain",
+        "grass",
+        "leaf",
+        "tree",
+        "flower",
+        "rainbow"
+      ],
+      "sentencePatterns": [
+        "What is it?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_1_week_13_activities",
+      "title": "Activities",
+      "vietnameseTitle": "Hoạt động",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 13,
+      "schoolLevel": "Pre-Starters 1",
+      "vocabularyIds": [
+        "playing_football",
+        "swimming",
+        "running",
+        "karate",
+        "skipping",
+        "walking",
+        "playing"
+      ],
+      "sentencePatterns": [
+        "What is it?",
+        "What do you like to do?",
+        "Do you like …?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_1_week_14_zoo_animals",
+      "title": "Zoo Animals",
+      "vietnameseTitle": "Động vật sở thú",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 14,
+      "schoolLevel": "Pre-Starters 1",
+      "vocabularyIds": [
+        "elephant",
+        "hippo",
+        "rhino",
+        "monkey",
+        "panda",
+        "tiger",
+        "lion",
+        "zebra",
+        "giraffe"
+      ],
+      "sentencePatterns": [
+        "What animal is it?",
+        "What colour is the animal?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_2_week_2_big_numbers",
+      "title": "Big Numbers",
+      "vietnameseTitle": "Số đếm lớn",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 2,
+      "schoolLevel": "Pre-Starters 2",
+      "vocabularyIds": [
+        "10",
+        "20",
+        "30",
+        "40",
+        "50",
+        "60",
+        "70",
+        "80",
+        "90",
+        "100"
+      ],
+      "sentencePatterns": [
+        "What number is it?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_1_week_3_animals",
+      "title": "Animals",
+      "vietnameseTitle": "Động vật",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 3,
+      "schoolLevel": "Pre-Starters 1",
+      "vocabularyIds": [
+        "bird",
+        "cat",
+        "chicken",
+        "cow",
+        "dog",
+        "duck",
+        "pig",
+        "rabbit"
+      ],
+      "sentencePatterns": [
+        "What animal is this?",
+        "Do you like animals?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_2_week_3_face_body",
+      "title": "Face Body",
+      "vietnameseTitle": "Khuôn mặt và cơ thể",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 3,
+      "schoolLevel": "Pre-Starters 2",
+      "vocabularyIds": [
+        "chin",
+        "lips",
+        "neck",
+        "back",
+        "beard",
+        "mustache",
+        "teeth",
+        "tooth",
+        "elbow"
+      ],
+      "sentencePatterns": [
+        "What is this?",
+        "What are these?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_1_week_4_numbers",
+      "title": "Numbers",
+      "vietnameseTitle": "Số đếm",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 4,
+      "schoolLevel": "Pre-Starters 1",
+      "vocabularyIds": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "sentencePatterns": [
+        "What number is it?",
+        "How many … are there?",
+        "How old are you?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_2_week_4_clothes",
+      "title": "Clothes",
+      "vietnameseTitle": "Quần áo",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 4,
+      "schoolLevel": "Pre-Starters 2",
+      "vocabularyIds": [
+        "jacket",
+        "trousers",
+        "suit",
+        "tie",
+        "pocket",
+        "underwear",
+        "raincoat",
+        "scarf",
+        "shoes"
+      ],
+      "sentencePatterns": [
+        "What is it?",
+        "What are these?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_1_week_5_face",
+      "title": "Face",
+      "vietnameseTitle": "Khuôn mặt",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 5,
+      "schoolLevel": "Pre-Starters 1",
+      "vocabularyIds": [
+        "eyes",
+        "nose",
+        "mouth",
+        "ears",
+        "teeth",
+        "tongue",
+        "hair"
+      ],
+      "sentencePatterns": [
+        "What is it?",
+        "What are they?",
+        "How many … are there?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_2_week_6_family",
+      "title": "Family",
+      "vietnameseTitle": "Gia đình",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 6,
+      "schoolLevel": "Pre-Starters 2",
+      "vocabularyIds": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "grandfather",
+        "grandmother"
+      ],
+      "sentencePatterns": [
+        "Who is it?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_1_week_7_clothes",
+      "title": "Clothes",
+      "vietnameseTitle": "Quần áo",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 7,
+      "schoolLevel": "Pre-Starters 1",
+      "vocabularyIds": [
+        "hat",
+        "shirt",
+        "shoes",
+        "dress",
+        "tshirt",
+        "socks",
+        "shorts",
+        "jeans",
+        "skirt"
+      ],
+      "sentencePatterns": [
+        "What colour clothing is it?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_1_week_9_toys",
+      "title": "Toys",
+      "vietnameseTitle": "Đồ chơi",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 9,
+      "schoolLevel": "Pre-Starters 1",
+      "vocabularyIds": [
+        "ball",
+        "doll",
+        "teddy_bear",
+        "kite",
+        "blocks",
+        "robot"
+      ],
+      "sentencePatterns": [
+        "What toy is it?",
+        "What are they?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "school_pre_starters_2_week_5_electronics",
+      "title": "Electronics",
+      "vietnameseTitle": "Đồ điện tử",
+      "worldId": "school_review",
+      "sourceType": "school_verified",
+      "week": 5,
+      "schoolLevel": "Pre-Starters 2",
+      "vocabularyIds": [
+        "phone",
+        "computer",
+        "camera",
+        "clock",
+        "television",
+        "tablet",
+        "aircon",
+        "fan"
+      ],
+      "sentencePatterns": [
+        "What is it?",
+        "How many … are there?"
+      ],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs",
+        "dragDrop"
+      ]
+    },
+    {
+      "id": "extra_class_things",
+      "title": "Class Things",
+      "vietnameseTitle": "Class Things",
+      "worldId": "extra_class",
+      "sourceType": "extra_class_inferred",
+      "week": null,
+      "schoolLevel": "Extra class",
+      "candidateTerms": [
+        "book",
+        "notebook",
+        "pencil",
+        "pen",
+        "ruler",
+        "eraser",
+        "bag",
+        "desk",
+        "chair",
+        "board",
+        "crayon",
+        "paper",
+        "glue",
+        "scissors",
+        "marker"
+      ],
+      "vocabularyIds": [
+        "book",
+        "notebook",
+        "pencil",
+        "pen",
+        "ruler",
+        "eraser",
+        "bag",
+        "desk",
+        "chair",
+        "board",
+        "crayon",
+        "paper",
+        "glue",
+        "scissors",
+        "marker"
+      ],
+      "sentencePatterns": [],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs"
+      ]
+    },
+    {
+      "id": "extra_mid_autumn",
+      "title": "Mid Autumn",
+      "vietnameseTitle": "Mid Autumn",
+      "worldId": "extra_class",
+      "sourceType": "extra_class_inferred",
+      "week": null,
+      "schoolLevel": "Extra class",
+      "candidateTerms": [
+        "moon",
+        "star",
+        "lantern",
+        "mooncake",
+        "rabbit",
+        "lion",
+        "drum",
+        "light",
+        "night",
+        "sky",
+        "cake",
+        "dance",
+        "red",
+        "yellow",
+        "round"
+      ],
+      "vocabularyIds": [
+        "moon",
+        "star",
+        "lantern",
+        "mooncake",
+        "rabbit",
+        "lion",
+        "drum",
+        "light",
+        "night",
+        "sky",
+        "cake",
+        "dance",
+        "red",
+        "yellow",
+        "round"
+      ],
+      "sentencePatterns": [],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs"
+      ]
+    },
+    {
+      "id": "extra_places_school",
+      "title": "Places School",
+      "vietnameseTitle": "Places School",
+      "worldId": "extra_class",
+      "sourceType": "extra_class_inferred",
+      "week": null,
+      "schoolLevel": "Extra class",
+      "candidateTerms": [
+        "school",
+        "classroom",
+        "library",
+        "playground",
+        "bathroom",
+        "canteen",
+        "garden",
+        "hall",
+        "office",
+        "gym",
+        "music room",
+        "art room",
+        "computer room",
+        "schoolyard",
+        "school gate"
+      ],
+      "vocabularyIds": [
+        "school",
+        "classroom",
+        "library",
+        "playground",
+        "bathroom",
+        "canteen",
+        "garden",
+        "hall",
+        "office",
+        "gym",
+        "music_room",
+        "art_room",
+        "computer_room",
+        "schoolyard",
+        "school_gate"
+      ],
+      "sentencePatterns": [],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs"
+      ]
+    },
+    {
+      "id": "extra_face_extra",
+      "title": "Face Extra",
+      "vietnameseTitle": "Face Extra",
+      "worldId": "extra_class",
+      "sourceType": "extra_class_inferred",
+      "week": null,
+      "schoolLevel": "Extra class",
+      "candidateTerms": [
+        "face",
+        "eyes",
+        "ears",
+        "nose",
+        "mouth",
+        "hair",
+        "teeth",
+        "tongue",
+        "lips",
+        "cheeks",
+        "chin",
+        "eyebrows",
+        "forehead",
+        "eyelashes",
+        "head"
+      ],
+      "vocabularyIds": [
+        "face",
+        "eyes",
+        "ears",
+        "nose",
+        "mouth",
+        "hair",
+        "teeth",
+        "tongue",
+        "lips",
+        "cheeks",
+        "chin",
+        "eyebrows",
+        "forehead",
+        "eyelashes",
+        "head"
+      ],
+      "sentencePatterns": [],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs"
+      ]
+    },
+    {
+      "id": "extra_body_extra",
+      "title": "Body Extra",
+      "vietnameseTitle": "Body Extra",
+      "worldId": "extra_class",
+      "sourceType": "extra_class_inferred",
+      "week": null,
+      "schoolLevel": "Extra class",
+      "candidateTerms": [
+        "body",
+        "head",
+        "shoulders",
+        "arms",
+        "hands",
+        "fingers",
+        "legs",
+        "feet",
+        "toes",
+        "knees",
+        "elbows",
+        "tummy",
+        "back",
+        "neck",
+        "chest"
+      ],
+      "vocabularyIds": [
+        "body",
+        "head",
+        "shoulders",
+        "arms",
+        "hands",
+        "fingers",
+        "legs",
+        "feet",
+        "toes",
+        "knees",
+        "elbows",
+        "tummy",
+        "back",
+        "neck",
+        "chest"
+      ],
+      "sentencePatterns": [],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs"
+      ]
+    },
+    {
+      "id": "extra_feelings",
+      "title": "Feelings",
+      "vietnameseTitle": "Feelings",
+      "worldId": "extra_class",
+      "sourceType": "extra_class_inferred",
+      "week": null,
+      "schoolLevel": "Extra class",
+      "candidateTerms": [
+        "happy",
+        "sad",
+        "angry",
+        "scared",
+        "tired",
+        "sleepy",
+        "excited",
+        "surprised",
+        "shy",
+        "hungry",
+        "thirsty",
+        "bored",
+        "worried",
+        "calm",
+        "okay"
+      ],
+      "vocabularyIds": [
+        "happy",
+        "sad",
+        "angry",
+        "scared",
+        "tired",
+        "sleepy",
+        "excited",
+        "surprised",
+        "shy",
+        "hungry",
+        "thirsty",
+        "bored",
+        "worried",
+        "calm",
+        "okay"
+      ],
+      "sentencePatterns": [],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs"
+      ]
+    },
+    {
+      "id": "extra_halloween",
+      "title": "Halloween",
+      "vietnameseTitle": "Halloween",
+      "worldId": "extra_class",
+      "sourceType": "extra_class_inferred",
+      "week": null,
+      "schoolLevel": "Extra class",
+      "candidateTerms": [
+        "pumpkin",
+        "ghost",
+        "witch",
+        "bat",
+        "spider",
+        "cat",
+        "hat",
+        "candy",
+        "mask",
+        "costume",
+        "skeleton",
+        "monster",
+        "broom",
+        "moon",
+        "bag"
+      ],
+      "vocabularyIds": [
+        "pumpkin",
+        "ghost",
+        "witch",
+        "bat",
+        "spider",
+        "cat",
+        "hat",
+        "candy",
+        "mask",
+        "costume",
+        "skeleton",
+        "monster",
+        "broom",
+        "moon",
+        "bag"
+      ],
+      "sentencePatterns": [],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs"
+      ]
+    },
+    {
+      "id": "extra_family_extra",
+      "title": "Family Extra",
+      "vietnameseTitle": "Family Extra",
+      "worldId": "extra_class",
+      "sourceType": "extra_class_inferred",
+      "week": null,
+      "schoolLevel": "Extra class",
+      "candidateTerms": [
+        "mum",
+        "dad",
+        "brother",
+        "sister",
+        "grandma",
+        "grandpa",
+        "baby",
+        "uncle",
+        "aunt",
+        "cousin",
+        "mother",
+        "father",
+        "parents",
+        "grandparents",
+        "family"
+      ],
+      "vocabularyIds": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "grandmother",
+        "grandfather",
+        "baby",
+        "uncle",
+        "aunt",
+        "cousin",
+        "parents",
+        "grandparents",
+        "family"
+      ],
+      "sentencePatterns": [],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs"
+      ]
+    },
+    {
+      "id": "extra_rooms_extra",
+      "title": "Rooms Extra",
+      "vietnameseTitle": "Rooms Extra",
+      "worldId": "extra_class",
+      "sourceType": "extra_class_inferred",
+      "week": null,
+      "schoolLevel": "Extra class",
+      "candidateTerms": [
+        "bedroom",
+        "bathroom",
+        "kitchen",
+        "living room",
+        "dining room",
+        "playroom",
+        "study",
+        "toilet",
+        "hallway",
+        "garage",
+        "balcony",
+        "garden",
+        "door",
+        "window",
+        "stairs"
+      ],
+      "vocabularyIds": [
+        "bedroom",
+        "bathroom",
+        "kitchen",
+        "living_room",
+        "dining_room",
+        "playroom",
+        "study",
+        "toilet",
+        "hallway",
+        "garage",
+        "balcony",
+        "garden",
+        "door",
+        "window",
+        "stairs"
+      ],
+      "sentencePatterns": [],
+      "gameTypes": [
+        "explore",
+        "hiddenObjects",
+        "matchingPairs"
+      ]
+    }
+  ]
+}

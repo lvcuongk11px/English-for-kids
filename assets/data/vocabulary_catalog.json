@@ -1,0 +1,7556 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "1",
+      "english": "1",
+      "vietnamese": "số 1",
+      "aliases": [
+        "1"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_1.png",
+      "audioPath": "assets/audio/words/1.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "english": "10",
+      "vietnamese": "số 10",
+      "aliases": [
+        "10"
+      ],
+      "topicIds": [
+        "big_numbers",
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_10.png",
+      "audioPath": "assets/audio/words/10.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 2-PRE 2C (1).pdf",
+          "page": 1,
+          "week": 2,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "big_numbers",
+          "sentencePatterns": [
+            "What number is it?"
+          ]
+        },
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "english": "100",
+      "vietnamese": "số 100",
+      "aliases": [
+        "100"
+      ],
+      "topicIds": [
+        "big_numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/100.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 2-PRE 2C (1).pdf",
+          "page": 1,
+          "week": 2,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "big_numbers",
+          "sentencePatterns": [
+            "What number is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "english": "11",
+      "vietnamese": "số 11",
+      "aliases": [
+        "11"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_11.png",
+      "audioPath": "assets/audio/words/11.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "english": "12",
+      "vietnamese": "số 12",
+      "aliases": [
+        "12"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_12.png",
+      "audioPath": "assets/audio/words/12.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "english": "13",
+      "vietnamese": "số 13",
+      "aliases": [
+        "13"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_13.png",
+      "audioPath": "assets/audio/words/13.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "english": "14",
+      "vietnamese": "số 14",
+      "aliases": [
+        "14"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_14.png",
+      "audioPath": "assets/audio/words/14.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "english": "15",
+      "vietnamese": "số 15",
+      "aliases": [
+        "15"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_15.png",
+      "audioPath": "assets/audio/words/15.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "english": "16",
+      "vietnamese": "số 16",
+      "aliases": [
+        "16"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_16.png",
+      "audioPath": "assets/audio/words/16.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "english": "17",
+      "vietnamese": "số 17",
+      "aliases": [
+        "17"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_17.png",
+      "audioPath": "assets/audio/words/17.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "english": "18",
+      "vietnamese": "số 18",
+      "aliases": [
+        "18"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_18.png",
+      "audioPath": "assets/audio/words/18.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "english": "19",
+      "vietnamese": "số 19",
+      "aliases": [
+        "19"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_19.png",
+      "audioPath": "assets/audio/words/19.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "english": "2",
+      "vietnamese": "số 2",
+      "aliases": [
+        "2"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_2.png",
+      "audioPath": "assets/audio/words/2.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "english": "20",
+      "vietnamese": "số 20",
+      "aliases": [
+        "20"
+      ],
+      "topicIds": [
+        "big_numbers",
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_20.png",
+      "audioPath": "assets/audio/words/20.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 2-PRE 2C (1).pdf",
+          "page": 1,
+          "week": 2,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "big_numbers",
+          "sentencePatterns": [
+            "What number is it?"
+          ]
+        },
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "english": "3",
+      "vietnamese": "số 3",
+      "aliases": [
+        "3"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_3.png",
+      "audioPath": "assets/audio/words/3.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "english": "30",
+      "vietnamese": "số 30",
+      "aliases": [
+        "30"
+      ],
+      "topicIds": [
+        "big_numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/30.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 2-PRE 2C (1).pdf",
+          "page": 1,
+          "week": 2,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "big_numbers",
+          "sentencePatterns": [
+            "What number is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "english": "4",
+      "vietnamese": "số 4",
+      "aliases": [
+        "4"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_4.png",
+      "audioPath": "assets/audio/words/4.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "english": "40",
+      "vietnamese": "số 40",
+      "aliases": [
+        "40"
+      ],
+      "topicIds": [
+        "big_numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/40.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 2-PRE 2C (1).pdf",
+          "page": 1,
+          "week": 2,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "big_numbers",
+          "sentencePatterns": [
+            "What number is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "english": "5",
+      "vietnamese": "số 5",
+      "aliases": [
+        "5"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_5.png",
+      "audioPath": "assets/audio/words/5.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "english": "50",
+      "vietnamese": "số 50",
+      "aliases": [
+        "50"
+      ],
+      "topicIds": [
+        "big_numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/50.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 2-PRE 2C (1).pdf",
+          "page": 1,
+          "week": 2,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "big_numbers",
+          "sentencePatterns": [
+            "What number is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "english": "6",
+      "vietnamese": "số 6",
+      "aliases": [
+        "6"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_6.png",
+      "audioPath": "assets/audio/words/6.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "english": "60",
+      "vietnamese": "số 60",
+      "aliases": [
+        "60"
+      ],
+      "topicIds": [
+        "big_numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/60.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 2-PRE 2C (1).pdf",
+          "page": 1,
+          "week": 2,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "big_numbers",
+          "sentencePatterns": [
+            "What number is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "english": "7",
+      "vietnamese": "số 7",
+      "aliases": [
+        "7"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_7.png",
+      "audioPath": "assets/audio/words/7.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "english": "70",
+      "vietnamese": "số 70",
+      "aliases": [
+        "70"
+      ],
+      "topicIds": [
+        "big_numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/70.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 2-PRE 2C (1).pdf",
+          "page": 1,
+          "week": 2,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "big_numbers",
+          "sentencePatterns": [
+            "What number is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "english": "8",
+      "vietnamese": "số 8",
+      "aliases": [
+        "8"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_8.png",
+      "audioPath": "assets/audio/words/8.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "english": "80",
+      "vietnamese": "số 80",
+      "aliases": [
+        "80"
+      ],
+      "topicIds": [
+        "big_numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/80.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 2-PRE 2C (1).pdf",
+          "page": 1,
+          "week": 2,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "big_numbers",
+          "sentencePatterns": [
+            "What number is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "english": "9",
+      "vietnamese": "số 9",
+      "aliases": [
+        "9"
+      ],
+      "topicIds": [
+        "numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/numbers_9.png",
+      "audioPath": "assets/audio/words/9.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4  - PRE 1B -  NUMBERS (C40) (1).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "numbers",
+          "sentencePatterns": [
+            "What number is it?",
+            "How many … are there?",
+            "How old are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "english": "90",
+      "vietnamese": "số 90",
+      "aliases": [
+        "90"
+      ],
+      "topicIds": [
+        "big_numbers"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/90.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 2-PRE 2C (1).pdf",
+          "page": 1,
+          "week": 2,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "big_numbers",
+          "sentencePatterns": [
+            "What number is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aircon",
+      "english": "aircon",
+      "vietnamese": "máy điều hòa",
+      "aliases": [
+        "aircon"
+      ],
+      "topicIds": [
+        "electronics"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/original_aircon.png",
+      "audioPath": "assets/audio/words/aircon.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "week-5-electronics.jpg",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "electronics",
+          "sentencePatterns": [
+            "What is it?",
+            "How many … are there?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "angry",
+      "english": "angry",
+      "vietnamese": "angry",
+      "aliases": [
+        "angry"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/angry.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "arms",
+      "english": "arms",
+      "vietnamese": "arms",
+      "aliases": [
+        "arms"
+      ],
+      "topicIds": [
+        "body_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/arms.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "art_room",
+      "english": "art room",
+      "vietnamese": "art room",
+      "aliases": [
+        "art room"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/art_room.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "aunt",
+      "english": "aunt",
+      "vietnamese": "aunt",
+      "aliases": [
+        "aunt"
+      ],
+      "topicIds": [
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/aunt.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "english": "baby",
+      "vietnamese": "baby",
+      "aliases": [
+        "baby"
+      ],
+      "topicIds": [
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/family_baby.png",
+      "audioPath": "assets/audio/words/baby.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "back",
+      "english": "back",
+      "vietnamese": "lưng",
+      "aliases": [
+        "back"
+      ],
+      "topicIds": [
+        "body_extra",
+        "face_body"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/back.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "Week 3- Pre 2C- Face and body parts.pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "face_body",
+          "sentencePatterns": [
+            "What is this?",
+            "What are these?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "bag",
+      "english": "bag",
+      "vietnamese": "bag",
+      "aliases": [
+        "bag"
+      ],
+      "topicIds": [
+        "class_things",
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/bag.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "balcony",
+      "english": "balcony",
+      "vietnamese": "balcony",
+      "aliases": [
+        "balcony"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/balcony.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "ball",
+      "english": "ball",
+      "vietnamese": "bóng",
+      "aliases": [
+        "ball"
+      ],
+      "topicIds": [
+        "toys"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/toys_ball.png",
+      "audioPath": "assets/audio/words/ball.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 9 - PRE 1B - TOYS (C40).pdf",
+          "page": 1,
+          "week": 9,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "toys",
+          "sentencePatterns": [
+            "What toy is it?",
+            "What are they?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bat",
+      "english": "bat",
+      "vietnamese": "bat",
+      "aliases": [
+        "bat"
+      ],
+      "topicIds": [
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/bat.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "bathroom",
+      "english": "bathroom",
+      "vietnamese": "bathroom",
+      "aliases": [
+        "bathroom"
+      ],
+      "topicIds": [
+        "places_school",
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/rooms_bathroom.png",
+      "audioPath": "assets/audio/words/bathroom.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "beard",
+      "english": "beard",
+      "vietnamese": "râu",
+      "aliases": [
+        "beard"
+      ],
+      "topicIds": [
+        "face_body"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/beard.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "Week 3- Pre 2C- Face and body parts.pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "face_body",
+          "sentencePatterns": [
+            "What is this?",
+            "What are these?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bedroom",
+      "english": "bedroom",
+      "vietnamese": "bedroom",
+      "aliases": [
+        "bedroom"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/rooms_bedroom.png",
+      "audioPath": "assets/audio/words/bedroom.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "beef",
+      "english": "beef",
+      "vietnamese": "thịt bò",
+      "aliases": [
+        "beef"
+      ],
+      "topicIds": [
+        "food"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/beef.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 11 - PRE 1B - FOOD (C40).pdf",
+          "page": 1,
+          "week": 11,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "food",
+          "sentencePatterns": [
+            "What is this?",
+            "What do you like?",
+            "What don’t you like?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bird",
+      "english": "bird",
+      "vietnamese": "chim",
+      "aliases": [
+        "bird"
+      ],
+      "topicIds": [
+        "animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_bird.png",
+      "audioPath": "assets/audio/words/bird.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 3  - PRE 1B -  ANIMALS (C40) .docx (1).pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is this?",
+            "Do you like animals?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blocks",
+      "english": "blocks",
+      "vietnamese": "khối xếp hình",
+      "aliases": [
+        "blocks"
+      ],
+      "topicIds": [
+        "toys"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/toys_blocks.png",
+      "audioPath": "assets/audio/words/blocks.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 9 - PRE 1B - TOYS (C40).pdf",
+          "page": 1,
+          "week": 9,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "toys",
+          "sentencePatterns": [
+            "What toy is it?",
+            "What are they?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "board",
+      "english": "board",
+      "vietnamese": "board",
+      "aliases": [
+        "board"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/board.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "english": "body",
+      "vietnamese": "body",
+      "aliases": [
+        "body"
+      ],
+      "topicIds": [
+        "body_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/body.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "book",
+      "english": "book",
+      "vietnamese": "book",
+      "aliases": [
+        "book"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/school_book.png",
+      "audioPath": "assets/audio/words/book.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "bored",
+      "english": "bored",
+      "vietnamese": "bored",
+      "aliases": [
+        "bored"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/bored.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "broom",
+      "english": "broom",
+      "vietnamese": "broom",
+      "aliases": [
+        "broom"
+      ],
+      "topicIds": [
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/household_broom.png",
+      "audioPath": "assets/audio/words/broom.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "brother",
+      "english": "brother",
+      "vietnamese": "anh/em trai",
+      "aliases": [
+        "brother"
+      ],
+      "topicIds": [
+        "family",
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/family_brother.png",
+      "audioPath": "assets/audio/words/brother.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 6- PRE 2C- FAMILY( C41).docx.pdf",
+          "page": 1,
+          "week": 6,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "family",
+          "sentencePatterns": [
+            "Who is it?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "buffalo",
+      "english": "buffalo",
+      "vietnamese": "trâu",
+      "aliases": [
+        "buffalo"
+      ],
+      "topicIds": [
+        "animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/buffalo.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE 2C- ANIMALS( C41).pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour animal is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cake",
+      "english": "cake",
+      "vietnamese": "cake",
+      "aliases": [
+        "cake"
+      ],
+      "topicIds": [
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/food_cake.png",
+      "audioPath": "assets/audio/words/cake.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "calm",
+      "english": "calm",
+      "vietnamese": "calm",
+      "aliases": [
+        "calm"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/calm.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "camera",
+      "english": "camera",
+      "vietnamese": "máy ảnh",
+      "aliases": [
+        "camera"
+      ],
+      "topicIds": [
+        "electronics"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/school_camera.png",
+      "audioPath": "assets/audio/words/camera.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "week-5-electronics.jpg",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "electronics",
+          "sentencePatterns": [
+            "What is it?",
+            "How many … are there?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "candy",
+      "english": "candy",
+      "vietnamese": "candy",
+      "aliases": [
+        "candy"
+      ],
+      "topicIds": [
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/candy.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "canteen",
+      "english": "canteen",
+      "vietnamese": "canteen",
+      "aliases": [
+        "canteen"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/canteen.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "carrot",
+      "english": "carrot",
+      "vietnamese": "cà rốt",
+      "aliases": [
+        "carrot"
+      ],
+      "topicIds": [
+        "food"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/vegetables_carrot.png",
+      "audioPath": "assets/audio/words/carrot.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 11 - PRE 1B - FOOD (C40).pdf",
+          "page": 1,
+          "week": 11,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "food",
+          "sentencePatterns": [
+            "What is this?",
+            "What do you like?",
+            "What don’t you like?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat",
+      "english": "cat",
+      "vietnamese": "mèo",
+      "aliases": [
+        "cat"
+      ],
+      "topicIds": [
+        "animals",
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_cat.png",
+      "audioPath": "assets/audio/words/cat.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 3  - PRE 1B -  ANIMALS (C40) .docx (1).pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is this?",
+            "Do you like animals?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "chair",
+      "english": "chair",
+      "vietnamese": "chair",
+      "aliases": [
+        "chair"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/furniture_chair.png",
+      "audioPath": "assets/audio/words/chair.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "cheeks",
+      "english": "cheeks",
+      "vietnamese": "cheeks",
+      "aliases": [
+        "cheeks"
+      ],
+      "topicIds": [
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/cheeks.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "chest",
+      "english": "chest",
+      "vietnamese": "chest",
+      "aliases": [
+        "chest"
+      ],
+      "topicIds": [
+        "body_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/chest.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "chicken",
+      "english": "chicken",
+      "vietnamese": "gà",
+      "aliases": [
+        "chicken"
+      ],
+      "topicIds": [
+        "animals",
+        "food"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_chicken.png",
+      "audioPath": "assets/audio/words/chicken.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 11 - PRE 1B - FOOD (C40).pdf",
+          "page": 1,
+          "week": 11,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "food",
+          "sentencePatterns": [
+            "What is this?",
+            "What do you like?",
+            "What don’t you like?"
+          ]
+        },
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 3  - PRE 1B -  ANIMALS (C40) .docx (1).pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is this?",
+            "Do you like animals?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chin",
+      "english": "chin",
+      "vietnamese": "cằm",
+      "aliases": [
+        "chin"
+      ],
+      "topicIds": [
+        "face_body",
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/chin.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "Week 3- Pre 2C- Face and body parts.pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "face_body",
+          "sentencePatterns": [
+            "What is this?",
+            "What are these?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "circle",
+      "english": "circle",
+      "vietnamese": "hình tròn",
+      "aliases": [
+        "circle"
+      ],
+      "topicIds": [
+        "shapes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/shapes_circle.png",
+      "audioPath": "assets/audio/words/circle.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE1B - UNIT 1 - C40.pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "shapes",
+          "sentencePatterns": [
+            "What shape is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "classroom",
+      "english": "classroom",
+      "vietnamese": "classroom",
+      "aliases": [
+        "classroom"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/classroom.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "clock",
+      "english": "clock",
+      "vietnamese": "đồng hồ",
+      "aliases": [
+        "clock"
+      ],
+      "topicIds": [
+        "electronics"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/household_clock.png",
+      "audioPath": "assets/audio/words/clock.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "week-5-electronics.jpg",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "electronics",
+          "sentencePatterns": [
+            "What is it?",
+            "How many … are there?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "computer",
+      "english": "computer",
+      "vietnamese": "máy tính",
+      "aliases": [
+        "computer"
+      ],
+      "topicIds": [
+        "electronics"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/school_computer.png",
+      "audioPath": "assets/audio/words/computer.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "week-5-electronics.jpg",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "electronics",
+          "sentencePatterns": [
+            "What is it?",
+            "How many … are there?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "computer_room",
+      "english": "computer room",
+      "vietnamese": "computer room",
+      "aliases": [
+        "computer room"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/computer_room.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "costume",
+      "english": "costume",
+      "vietnamese": "costume",
+      "aliases": [
+        "costume"
+      ],
+      "topicIds": [
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/costume.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "cousin",
+      "english": "cousin",
+      "vietnamese": "cousin",
+      "aliases": [
+        "cousin"
+      ],
+      "topicIds": [
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/cousin.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "cow",
+      "english": "cow",
+      "vietnamese": "bò",
+      "aliases": [
+        "cow"
+      ],
+      "topicIds": [
+        "animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_cow.png",
+      "audioPath": "assets/audio/words/cow.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 3  - PRE 1B -  ANIMALS (C40) .docx (1).pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is this?",
+            "Do you like animals?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crayon",
+      "english": "crayon",
+      "vietnamese": "crayon",
+      "aliases": [
+        "crayon"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/school_crayon.png",
+      "audioPath": "assets/audio/words/crayon.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "dance",
+      "english": "dance",
+      "vietnamese": "dance",
+      "aliases": [
+        "dance"
+      ],
+      "topicIds": [
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/actions_dance.png",
+      "audioPath": "assets/audio/words/dance.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "desk",
+      "english": "desk",
+      "vietnamese": "desk",
+      "aliases": [
+        "desk"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/furniture_desk.png",
+      "audioPath": "assets/audio/words/desk.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "diamond",
+      "english": "diamond",
+      "vietnamese": "hình thoi",
+      "aliases": [
+        "diamond"
+      ],
+      "topicIds": [
+        "shapes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/shapes_diamond.png",
+      "audioPath": "assets/audio/words/diamond.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE1B - UNIT 1 - C40.pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "shapes",
+          "sentencePatterns": [
+            "What shape is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dining_room",
+      "english": "dining room",
+      "vietnamese": "dining room",
+      "aliases": [
+        "dining room"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/rooms_dining_room.png",
+      "audioPath": "assets/audio/words/dining_room.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "dog",
+      "english": "dog",
+      "vietnamese": "chó",
+      "aliases": [
+        "dog"
+      ],
+      "topicIds": [
+        "animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_dog.png",
+      "audioPath": "assets/audio/words/dog.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 3  - PRE 1B -  ANIMALS (C40) .docx (1).pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is this?",
+            "Do you like animals?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doll",
+      "english": "doll",
+      "vietnamese": "búp bê",
+      "aliases": [
+        "doll"
+      ],
+      "topicIds": [
+        "toys"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/toys_doll.png",
+      "audioPath": "assets/audio/words/doll.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 9 - PRE 1B - TOYS (C40).pdf",
+          "page": 1,
+          "week": 9,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "toys",
+          "sentencePatterns": [
+            "What toy is it?",
+            "What are they?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "door",
+      "english": "door",
+      "vietnamese": "door",
+      "aliases": [
+        "door"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/household_door.png",
+      "audioPath": "assets/audio/words/door.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "dress",
+      "english": "dress",
+      "vietnamese": "váy",
+      "aliases": [
+        "dress"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/clothes_dress.png",
+      "audioPath": "assets/audio/words/dress.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 7 - PRE 1A - CLOTHES (C40) (1).pdf",
+          "page": 1,
+          "week": 7,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What colour clothing is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drum",
+      "english": "drum",
+      "vietnamese": "drum",
+      "aliases": [
+        "drum"
+      ],
+      "topicIds": [
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/toys_drum.png",
+      "audioPath": "assets/audio/words/drum.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "duck",
+      "english": "duck",
+      "vietnamese": "vịt",
+      "aliases": [
+        "duck"
+      ],
+      "topicIds": [
+        "animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_duck.png",
+      "audioPath": "assets/audio/words/duck.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 3  - PRE 1B -  ANIMALS (C40) .docx (1).pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is this?",
+            "Do you like animals?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ears",
+      "english": "ears",
+      "vietnamese": "tai",
+      "aliases": [
+        "ears"
+      ],
+      "topicIds": [
+        "face",
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/body_parts_ears.png",
+      "audioPath": "assets/audio/words/ears.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 5 - PRE 1B - FACE (C40) (1).pdf",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "face",
+          "sentencePatterns": [
+            "What is it?",
+            "What are they?",
+            "How many … are there?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "elbow",
+      "english": "elbow",
+      "vietnamese": "khuỷu tay",
+      "aliases": [
+        "elbow"
+      ],
+      "topicIds": [
+        "face_body"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/elbow.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "Week 3- Pre 2C- Face and body parts.pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "face_body",
+          "sentencePatterns": [
+            "What is this?",
+            "What are these?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elbows",
+      "english": "elbows",
+      "vietnamese": "elbows",
+      "aliases": [
+        "elbows"
+      ],
+      "topicIds": [
+        "body_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/elbows.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "elephant",
+      "english": "elephant",
+      "vietnamese": "voi",
+      "aliases": [
+        "elephant"
+      ],
+      "topicIds": [
+        "zoo_animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_elephant.png",
+      "audioPath": "assets/audio/words/elephant.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 14 - PRE 1C - ZOO ANIMALS (C40) (1).pdf",
+          "page": 1,
+          "week": 14,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "zoo_animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour is the animal?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eraser",
+      "english": "eraser",
+      "vietnamese": "eraser",
+      "aliases": [
+        "eraser"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/eraser.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "excited",
+      "english": "excited",
+      "vietnamese": "excited",
+      "aliases": [
+        "excited"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/excited.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "eyebrows",
+      "english": "eyebrows",
+      "vietnamese": "eyebrows",
+      "aliases": [
+        "eyebrows"
+      ],
+      "topicIds": [
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/eyebrows.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "eyelashes",
+      "english": "eyelashes",
+      "vietnamese": "eyelashes",
+      "aliases": [
+        "eyelashes"
+      ],
+      "topicIds": [
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/eyelashes.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "eyes",
+      "english": "eyes",
+      "vietnamese": "mắt",
+      "aliases": [
+        "eyes"
+      ],
+      "topicIds": [
+        "face",
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/body_parts_eyes.png",
+      "audioPath": "assets/audio/words/eyes.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 5 - PRE 1B - FACE (C40) (1).pdf",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "face",
+          "sentencePatterns": [
+            "What is it?",
+            "What are they?",
+            "How many … are there?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "face",
+      "english": "face",
+      "vietnamese": "face",
+      "aliases": [
+        "face"
+      ],
+      "topicIds": [
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/body_parts_face.png",
+      "audioPath": "assets/audio/words/face.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "english": "family",
+      "vietnamese": "family",
+      "aliases": [
+        "family"
+      ],
+      "topicIds": [
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/family_family.png",
+      "audioPath": "assets/audio/words/family.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "fan",
+      "english": "fan",
+      "vietnamese": "quạt",
+      "aliases": [
+        "fan"
+      ],
+      "topicIds": [
+        "electronics"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/household_fan.png",
+      "audioPath": "assets/audio/words/fan.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "week-5-electronics.jpg",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "electronics",
+          "sentencePatterns": [
+            "What is it?",
+            "How many … are there?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "father",
+      "english": "father",
+      "vietnamese": "bố",
+      "aliases": [
+        "dad",
+        "father"
+      ],
+      "topicIds": [
+        "family",
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/family_father.png",
+      "audioPath": "assets/audio/words/father.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 6- PRE 2C- FAMILY( C41).docx.pdf",
+          "page": 1,
+          "week": 6,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "family",
+          "sentencePatterns": [
+            "Who is it?"
+          ]
+        },
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 6- PRE 2C- FAMILY( C41).docx.pdf",
+          "page": 1,
+          "week": 6,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "family",
+          "sentencePatterns": [
+            "Who is it?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "feet",
+      "english": "feet",
+      "vietnamese": "feet",
+      "aliases": [
+        "feet"
+      ],
+      "topicIds": [
+        "body_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/feet.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "fingers",
+      "english": "fingers",
+      "vietnamese": "fingers",
+      "aliases": [
+        "fingers"
+      ],
+      "topicIds": [
+        "body_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/fingers.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "flower",
+      "english": "flower",
+      "vietnamese": "hoa",
+      "aliases": [
+        "flower"
+      ],
+      "topicIds": [
+        "nature"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/flower.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 12 - PRE 1B - NATURE (C40) (1).pdf",
+          "page": 1,
+          "week": 12,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "nature",
+          "sentencePatterns": [
+            "What is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forehead",
+      "english": "forehead",
+      "vietnamese": "forehead",
+      "aliases": [
+        "forehead"
+      ],
+      "topicIds": [
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/forehead.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "frog",
+      "english": "frog",
+      "vietnamese": "ếch",
+      "aliases": [
+        "frog"
+      ],
+      "topicIds": [
+        "animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_frog.png",
+      "audioPath": "assets/audio/words/frog.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE 2C- ANIMALS( C41).pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour animal is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "garage",
+      "english": "garage",
+      "vietnamese": "garage",
+      "aliases": [
+        "garage"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/rooms_garage.png",
+      "audioPath": "assets/audio/words/garage.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "garden",
+      "english": "garden",
+      "vietnamese": "garden",
+      "aliases": [
+        "garden"
+      ],
+      "topicIds": [
+        "places_school",
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/garden.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "ghost",
+      "english": "ghost",
+      "vietnamese": "ghost",
+      "aliases": [
+        "ghost"
+      ],
+      "topicIds": [
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/ghost.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "giraffe",
+      "english": "giraffe",
+      "vietnamese": "hươu cao cổ",
+      "aliases": [
+        "giraffe"
+      ],
+      "topicIds": [
+        "zoo_animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/giraffe.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 14 - PRE 1C - ZOO ANIMALS (C40) (1).pdf",
+          "page": 1,
+          "week": 14,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "zoo_animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour is the animal?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glue",
+      "english": "glue",
+      "vietnamese": "glue",
+      "aliases": [
+        "glue"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/glue.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "goat",
+      "english": "goat",
+      "vietnamese": "dê",
+      "aliases": [
+        "goat"
+      ],
+      "topicIds": [
+        "animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/goat.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE 2C- ANIMALS( C41).pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour animal is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grandfather",
+      "english": "grandfather",
+      "vietnamese": "ông",
+      "aliases": [
+        "grandfather",
+        "grandpa"
+      ],
+      "topicIds": [
+        "family",
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/family_grandfather.png",
+      "audioPath": "assets/audio/words/grandfather.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 6- PRE 2C- FAMILY( C41).docx.pdf",
+          "page": 1,
+          "week": 6,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "family",
+          "sentencePatterns": [
+            "Who is it?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "grandmother",
+      "english": "grandmother",
+      "vietnamese": "bà",
+      "aliases": [
+        "grandma",
+        "grandmother"
+      ],
+      "topicIds": [
+        "family",
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/family_grandmother.png",
+      "audioPath": "assets/audio/words/grandmother.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 6- PRE 2C- FAMILY( C41).docx.pdf",
+          "page": 1,
+          "week": 6,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "family",
+          "sentencePatterns": [
+            "Who is it?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "grandparents",
+      "english": "grandparents",
+      "vietnamese": "grandparents",
+      "aliases": [
+        "grandparents"
+      ],
+      "topicIds": [
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/grandparents.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "grass",
+      "english": "grass",
+      "vietnamese": "cỏ",
+      "aliases": [
+        "grass"
+      ],
+      "topicIds": [
+        "nature"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/grass.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 12 - PRE 1B - NATURE (C40) (1).pdf",
+          "page": 1,
+          "week": 12,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "nature",
+          "sentencePatterns": [
+            "What is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gym",
+      "english": "gym",
+      "vietnamese": "gym",
+      "aliases": [
+        "gym"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/gym.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "hair",
+      "english": "hair",
+      "vietnamese": "tóc",
+      "aliases": [
+        "hair"
+      ],
+      "topicIds": [
+        "face",
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/body_parts_hair.png",
+      "audioPath": "assets/audio/words/hair.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 5 - PRE 1B - FACE (C40) (1).pdf",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "face",
+          "sentencePatterns": [
+            "What is it?",
+            "What are they?",
+            "How many … are there?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "hall",
+      "english": "hall",
+      "vietnamese": "hall",
+      "aliases": [
+        "hall"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/hall.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "hallway",
+      "english": "hallway",
+      "vietnamese": "hallway",
+      "aliases": [
+        "hallway"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/hallway.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "hands",
+      "english": "hands",
+      "vietnamese": "hands",
+      "aliases": [
+        "hands"
+      ],
+      "topicIds": [
+        "body_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/hands.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "happy",
+      "english": "happy",
+      "vietnamese": "happy",
+      "aliases": [
+        "happy"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/happy.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "hat",
+      "english": "hat",
+      "vietnamese": "mũ",
+      "aliases": [
+        "hat"
+      ],
+      "topicIds": [
+        "clothes",
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/clothes_hat.png",
+      "audioPath": "assets/audio/words/hat.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 7 - PRE 1A - CLOTHES (C40) (1).pdf",
+          "page": 1,
+          "week": 7,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What colour clothing is it?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "head",
+      "english": "head",
+      "vietnamese": "head",
+      "aliases": [
+        "head"
+      ],
+      "topicIds": [
+        "body_extra",
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/body_parts_head.png",
+      "audioPath": "assets/audio/words/head.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "heart",
+      "english": "heart",
+      "vietnamese": "trái tim",
+      "aliases": [
+        "heart"
+      ],
+      "topicIds": [
+        "shapes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/shapes_heart.png",
+      "audioPath": "assets/audio/words/heart.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE1B - UNIT 1 - C40.pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "shapes",
+          "sentencePatterns": [
+            "What shape is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hippo",
+      "english": "hippo",
+      "vietnamese": "hà mã",
+      "aliases": [
+        "hippo"
+      ],
+      "topicIds": [
+        "zoo_animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/hippo.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 14 - PRE 1C - ZOO ANIMALS (C40) (1).pdf",
+          "page": 1,
+          "week": 14,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "zoo_animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour is the animal?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "horse",
+      "english": "horse",
+      "vietnamese": "ngựa",
+      "aliases": [
+        "horse"
+      ],
+      "topicIds": [
+        "animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_horse.png",
+      "audioPath": "assets/audio/words/horse.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE 2C- ANIMALS( C41).pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour animal is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hungry",
+      "english": "hungry",
+      "vietnamese": "hungry",
+      "aliases": [
+        "hungry"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/hungry.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "jacket",
+      "english": "jacket",
+      "vietnamese": "áo khoác",
+      "aliases": [
+        "jacket"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/jacket.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4- PRE 2C- CLOTHES(C41).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What is it?",
+            "What are these?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jeans",
+      "english": "jeans",
+      "vietnamese": "quần bò",
+      "aliases": [
+        "jeans"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/jeans.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 7 - PRE 1A - CLOTHES (C40) (1).pdf",
+          "page": 1,
+          "week": 7,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What colour clothing is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "karate",
+      "english": "karate",
+      "vietnamese": "võ karate",
+      "aliases": [
+        "karate"
+      ],
+      "topicIds": [
+        "activities"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/karate.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 13 - PRE 1B - ACTIVITIES (C40) (1).pdf",
+          "page": 1,
+          "week": 13,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "activities",
+          "sentencePatterns": [
+            "What is it?",
+            "What do you like to do?",
+            "Do you like …?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kitchen",
+      "english": "kitchen",
+      "vietnamese": "kitchen",
+      "aliases": [
+        "kitchen"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/rooms_kitchen.png",
+      "audioPath": "assets/audio/words/kitchen.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "kite",
+      "english": "kite",
+      "vietnamese": "diều",
+      "aliases": [
+        "kite"
+      ],
+      "topicIds": [
+        "toys"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/toys_kite.png",
+      "audioPath": "assets/audio/words/kite.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 9 - PRE 1B - TOYS (C40).pdf",
+          "page": 1,
+          "week": 9,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "toys",
+          "sentencePatterns": [
+            "What toy is it?",
+            "What are they?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knees",
+      "english": "knees",
+      "vietnamese": "knees",
+      "aliases": [
+        "knees"
+      ],
+      "topicIds": [
+        "body_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/knees.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "lantern",
+      "english": "lantern",
+      "vietnamese": "lantern",
+      "aliases": [
+        "lantern"
+      ],
+      "topicIds": [
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/lantern.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "leaf",
+      "english": "leaf",
+      "vietnamese": "lá",
+      "aliases": [
+        "leaf"
+      ],
+      "topicIds": [
+        "nature"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/leaf.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 12 - PRE 1B - NATURE (C40) (1).pdf",
+          "page": 1,
+          "week": 12,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "nature",
+          "sentencePatterns": [
+            "What is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "legs",
+      "english": "legs",
+      "vietnamese": "legs",
+      "aliases": [
+        "legs"
+      ],
+      "topicIds": [
+        "body_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/legs.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "library",
+      "english": "library",
+      "vietnamese": "library",
+      "aliases": [
+        "library"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/library.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "light",
+      "english": "light",
+      "vietnamese": "light",
+      "aliases": [
+        "light"
+      ],
+      "topicIds": [
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/light.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "lion",
+      "english": "lion",
+      "vietnamese": "sư tử",
+      "aliases": [
+        "lion"
+      ],
+      "topicIds": [
+        "mid_autumn",
+        "zoo_animals"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_lion.png",
+      "audioPath": "assets/audio/words/lion.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 14 - PRE 1C - ZOO ANIMALS (C40) (1).pdf",
+          "page": 1,
+          "week": 14,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "zoo_animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour is the animal?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "lips",
+      "english": "lips",
+      "vietnamese": "môi",
+      "aliases": [
+        "lips"
+      ],
+      "topicIds": [
+        "face_body",
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/lips.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "Week 3- Pre 2C- Face and body parts.pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "face_body",
+          "sentencePatterns": [
+            "What is this?",
+            "What are these?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "living_room",
+      "english": "living room",
+      "vietnamese": "living room",
+      "aliases": [
+        "living room"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/rooms_living_room.png",
+      "audioPath": "assets/audio/words/living_room.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "marker",
+      "english": "marker",
+      "vietnamese": "marker",
+      "aliases": [
+        "marker"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/marker.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "mask",
+      "english": "mask",
+      "vietnamese": "mask",
+      "aliases": [
+        "mask"
+      ],
+      "topicIds": [
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/mask.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "milk",
+      "english": "milk",
+      "vietnamese": "sữa",
+      "aliases": [
+        "milk"
+      ],
+      "topicIds": [
+        "food"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/drinks_milk.png",
+      "audioPath": "assets/audio/words/milk.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 11 - PRE 1B - FOOD (C40).pdf",
+          "page": 1,
+          "week": 11,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "food",
+          "sentencePatterns": [
+            "What is this?",
+            "What do you like?",
+            "What don’t you like?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "monkey",
+      "english": "monkey",
+      "vietnamese": "khỉ",
+      "aliases": [
+        "monkey"
+      ],
+      "topicIds": [
+        "zoo_animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_monkey.png",
+      "audioPath": "assets/audio/words/monkey.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 14 - PRE 1C - ZOO ANIMALS (C40) (1).pdf",
+          "page": 1,
+          "week": 14,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "zoo_animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour is the animal?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "monster",
+      "english": "monster",
+      "vietnamese": "monster",
+      "aliases": [
+        "monster"
+      ],
+      "topicIds": [
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/monster.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "moon",
+      "english": "moon",
+      "vietnamese": "moon",
+      "aliases": [
+        "moon"
+      ],
+      "topicIds": [
+        "halloween",
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/moon.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "mooncake",
+      "english": "mooncake",
+      "vietnamese": "mooncake",
+      "aliases": [
+        "mooncake"
+      ],
+      "topicIds": [
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/mooncake.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "mother",
+      "english": "mother",
+      "vietnamese": "mẹ",
+      "aliases": [
+        "mom",
+        "mother",
+        "mum"
+      ],
+      "topicIds": [
+        "family",
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/family_mother.png",
+      "audioPath": "assets/audio/words/mother.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 6- PRE 2C- FAMILY( C41).docx.pdf",
+          "page": 1,
+          "week": 6,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "family",
+          "sentencePatterns": [
+            "Who is it?"
+          ]
+        },
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 6- PRE 2C- FAMILY( C41).docx.pdf",
+          "page": 1,
+          "week": 6,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "family",
+          "sentencePatterns": [
+            "Who is it?"
+          ]
+        },
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 6- PRE 2C- FAMILY( C41).docx.pdf",
+          "page": 1,
+          "week": 6,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "family",
+          "sentencePatterns": [
+            "Who is it?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "mountain",
+      "english": "mountain",
+      "vietnamese": "núi",
+      "aliases": [
+        "mountain"
+      ],
+      "topicIds": [
+        "nature"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/mountain.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 12 - PRE 1B - NATURE (C40) (1).pdf",
+          "page": 1,
+          "week": 12,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "nature",
+          "sentencePatterns": [
+            "What is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mouse",
+      "english": "mouse",
+      "vietnamese": "chuột",
+      "aliases": [
+        "mouse"
+      ],
+      "topicIds": [
+        "animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/mouse.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE 2C- ANIMALS( C41).pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour animal is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mouth",
+      "english": "mouth",
+      "vietnamese": "miệng",
+      "aliases": [
+        "mouth"
+      ],
+      "topicIds": [
+        "face",
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/body_parts_mouth.png",
+      "audioPath": "assets/audio/words/mouth.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 5 - PRE 1B - FACE (C40) (1).pdf",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "face",
+          "sentencePatterns": [
+            "What is it?",
+            "What are they?",
+            "How many … are there?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "music_room",
+      "english": "music room",
+      "vietnamese": "music room",
+      "aliases": [
+        "music room"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/music_room.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "mustache",
+      "english": "mustache",
+      "vietnamese": "ria mép",
+      "aliases": [
+        "mustache"
+      ],
+      "topicIds": [
+        "face_body"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/mustache.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "Week 3- Pre 2C- Face and body parts.pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "face_body",
+          "sentencePatterns": [
+            "What is this?",
+            "What are these?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neck",
+      "english": "neck",
+      "vietnamese": "cổ",
+      "aliases": [
+        "neck"
+      ],
+      "topicIds": [
+        "body_extra",
+        "face_body"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/neck.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "Week 3- Pre 2C- Face and body parts.pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "face_body",
+          "sentencePatterns": [
+            "What is this?",
+            "What are these?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "night",
+      "english": "night",
+      "vietnamese": "night",
+      "aliases": [
+        "night"
+      ],
+      "topicIds": [
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/night.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "noodles",
+      "english": "noodles",
+      "vietnamese": "mì",
+      "aliases": [
+        "noodles"
+      ],
+      "topicIds": [
+        "food"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/food_noodles.png",
+      "audioPath": "assets/audio/words/noodles.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 11 - PRE 1B - FOOD (C40).pdf",
+          "page": 1,
+          "week": 11,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "food",
+          "sentencePatterns": [
+            "What is this?",
+            "What do you like?",
+            "What don’t you like?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nose",
+      "english": "nose",
+      "vietnamese": "mũi",
+      "aliases": [
+        "nose"
+      ],
+      "topicIds": [
+        "face",
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/body_parts_nose.png",
+      "audioPath": "assets/audio/words/nose.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 5 - PRE 1B - FACE (C40) (1).pdf",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "face",
+          "sentencePatterns": [
+            "What is it?",
+            "What are they?",
+            "How many … are there?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "notebook",
+      "english": "notebook",
+      "vietnamese": "notebook",
+      "aliases": [
+        "notebook"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/school_notebook.png",
+      "audioPath": "assets/audio/words/notebook.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "office",
+      "english": "office",
+      "vietnamese": "office",
+      "aliases": [
+        "office"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/office.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "okay",
+      "english": "okay",
+      "vietnamese": "okay",
+      "aliases": [
+        "okay"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/okay.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "onion",
+      "english": "onion",
+      "vietnamese": "hành tây",
+      "aliases": [
+        "onion"
+      ],
+      "topicIds": [
+        "food"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/vegetables_onion.png",
+      "audioPath": "assets/audio/words/onion.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 11 - PRE 1B - FOOD (C40).pdf",
+          "page": 1,
+          "week": 11,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "food",
+          "sentencePatterns": [
+            "What is this?",
+            "What do you like?",
+            "What don’t you like?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oval",
+      "english": "oval",
+      "vietnamese": "hình bầu dục",
+      "aliases": [
+        "oval"
+      ],
+      "topicIds": [
+        "shapes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/shapes_oval.png",
+      "audioPath": "assets/audio/words/oval.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE1B - UNIT 1 - C40.pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "shapes",
+          "sentencePatterns": [
+            "What shape is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "panda",
+      "english": "panda",
+      "vietnamese": "gấu trúc",
+      "aliases": [
+        "panda"
+      ],
+      "topicIds": [
+        "zoo_animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_panda.png",
+      "audioPath": "assets/audio/words/panda.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 14 - PRE 1C - ZOO ANIMALS (C40) (1).pdf",
+          "page": 1,
+          "week": 14,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "zoo_animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour is the animal?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "english": "paper",
+      "vietnamese": "paper",
+      "aliases": [
+        "paper"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/paper.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "parents",
+      "english": "parents",
+      "vietnamese": "parents",
+      "aliases": [
+        "parents"
+      ],
+      "topicIds": [
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/parents.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "pen",
+      "english": "pen",
+      "vietnamese": "pen",
+      "aliases": [
+        "pen"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/school_pen.png",
+      "audioPath": "assets/audio/words/pen.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "pencil",
+      "english": "pencil",
+      "vietnamese": "pencil",
+      "aliases": [
+        "pencil"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/school_pencil.png",
+      "audioPath": "assets/audio/words/pencil.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "phone",
+      "english": "phone",
+      "vietnamese": "điện thoại",
+      "aliases": [
+        "phone"
+      ],
+      "topicIds": [
+        "electronics"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/household_phone.png",
+      "audioPath": "assets/audio/words/phone.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "week-5-electronics.jpg",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "electronics",
+          "sentencePatterns": [
+            "What is it?",
+            "How many … are there?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pig",
+      "english": "pig",
+      "vietnamese": "lợn",
+      "aliases": [
+        "pig"
+      ],
+      "topicIds": [
+        "animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_pig.png",
+      "audioPath": "assets/audio/words/pig.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 3  - PRE 1B -  ANIMALS (C40) .docx (1).pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is this?",
+            "Do you like animals?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "playground",
+      "english": "playground",
+      "vietnamese": "playground",
+      "aliases": [
+        "playground"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/playground.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "playing",
+      "english": "playing",
+      "vietnamese": "chơi",
+      "aliases": [
+        "playing"
+      ],
+      "topicIds": [
+        "activities"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/playing.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 13 - PRE 1B - ACTIVITIES (C40) (1).pdf",
+          "page": 1,
+          "week": 13,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "activities",
+          "sentencePatterns": [
+            "What is it?",
+            "What do you like to do?",
+            "Do you like …?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "playing_football",
+      "english": "playing football",
+      "vietnamese": "chơi bóng đá",
+      "aliases": [
+        "playing football"
+      ],
+      "topicIds": [
+        "activities"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/playing_football.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 13 - PRE 1B - ACTIVITIES (C40) (1).pdf",
+          "page": 1,
+          "week": 13,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "activities",
+          "sentencePatterns": [
+            "What is it?",
+            "What do you like to do?",
+            "Do you like …?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "playroom",
+      "english": "playroom",
+      "vietnamese": "playroom",
+      "aliases": [
+        "playroom"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/playroom.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "pocket",
+      "english": "pocket",
+      "vietnamese": "túi áo",
+      "aliases": [
+        "pocket"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/pocket.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4- PRE 2C- CLOTHES(C41).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What is it?",
+            "What are these?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pumpkin",
+      "english": "pumpkin",
+      "vietnamese": "pumpkin",
+      "aliases": [
+        "pumpkin"
+      ],
+      "topicIds": [
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/pumpkin.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "rabbit",
+      "english": "rabbit",
+      "vietnamese": "thỏ",
+      "aliases": [
+        "rabbit"
+      ],
+      "topicIds": [
+        "animals",
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_rabbit.png",
+      "audioPath": "assets/audio/words/rabbit.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE 2C- ANIMALS( C41).pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour animal is it?"
+          ]
+        },
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 3  - PRE 1B -  ANIMALS (C40) .docx (1).pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is this?",
+            "Do you like animals?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "rainbow",
+      "english": "rainbow",
+      "vietnamese": "cầu vồng",
+      "aliases": [
+        "rainbow"
+      ],
+      "topicIds": [
+        "nature"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/rainbow.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 12 - PRE 1B - NATURE (C40) (1).pdf",
+          "page": 1,
+          "week": 12,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "nature",
+          "sentencePatterns": [
+            "What is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raincoat",
+      "english": "raincoat",
+      "vietnamese": "áo mưa",
+      "aliases": [
+        "raincoat"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/raincoat.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4- PRE 2C- CLOTHES(C41).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What is it?",
+            "What are these?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rectangle",
+      "english": "rectangle",
+      "vietnamese": "hình chữ nhật",
+      "aliases": [
+        "rectangle"
+      ],
+      "topicIds": [
+        "shapes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/shapes_rectangle.png",
+      "audioPath": "assets/audio/words/rectangle.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE1B - UNIT 1 - C40.pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "shapes",
+          "sentencePatterns": [
+            "What shape is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "red",
+      "english": "red",
+      "vietnamese": "red",
+      "aliases": [
+        "red"
+      ],
+      "topicIds": [
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/colors_red.png",
+      "audioPath": "assets/audio/words/red.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "rhino",
+      "english": "rhino",
+      "vietnamese": "tê giác",
+      "aliases": [
+        "rhino"
+      ],
+      "topicIds": [
+        "zoo_animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/rhino.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 14 - PRE 1C - ZOO ANIMALS (C40) (1).pdf",
+          "page": 1,
+          "week": 14,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "zoo_animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour is the animal?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rice",
+      "english": "rice",
+      "vietnamese": "cơm",
+      "aliases": [
+        "rice"
+      ],
+      "topicIds": [
+        "food"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/food_rice.png",
+      "audioPath": "assets/audio/words/rice.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 11 - PRE 1B - FOOD (C40).pdf",
+          "page": 1,
+          "week": 11,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "food",
+          "sentencePatterns": [
+            "What is this?",
+            "What do you like?",
+            "What don’t you like?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "river",
+      "english": "river",
+      "vietnamese": "sông",
+      "aliases": [
+        "river"
+      ],
+      "topicIds": [
+        "nature"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/river.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 12 - PRE 1B - NATURE (C40) (1).pdf",
+          "page": 1,
+          "week": 12,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "nature",
+          "sentencePatterns": [
+            "What is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "robot",
+      "english": "robot",
+      "vietnamese": "rô-bốt",
+      "aliases": [
+        "robot"
+      ],
+      "topicIds": [
+        "toys"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/robot.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 9 - PRE 1B - TOYS (C40).pdf",
+          "page": 1,
+          "week": 9,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "toys",
+          "sentencePatterns": [
+            "What toy is it?",
+            "What are they?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "round",
+      "english": "round",
+      "vietnamese": "round",
+      "aliases": [
+        "round"
+      ],
+      "topicIds": [
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/round.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "ruler",
+      "english": "ruler",
+      "vietnamese": "ruler",
+      "aliases": [
+        "ruler"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/school_ruler.png",
+      "audioPath": "assets/audio/words/ruler.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "running",
+      "english": "running",
+      "vietnamese": "chạy",
+      "aliases": [
+        "running"
+      ],
+      "topicIds": [
+        "activities"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/running.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 13 - PRE 1B - ACTIVITIES (C40) (1).pdf",
+          "page": 1,
+          "week": 13,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "activities",
+          "sentencePatterns": [
+            "What is it?",
+            "What do you like to do?",
+            "Do you like …?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad",
+      "english": "sad",
+      "vietnamese": "sad",
+      "aliases": [
+        "sad"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/sad.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "scared",
+      "english": "scared",
+      "vietnamese": "scared",
+      "aliases": [
+        "scared"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/scared.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "scarf",
+      "english": "scarf",
+      "vietnamese": "khăn quàng",
+      "aliases": [
+        "scarf"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/clothes_scarf.png",
+      "audioPath": "assets/audio/words/scarf.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4- PRE 2C- CLOTHES(C41).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What is it?",
+            "What are these?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "school",
+      "english": "school",
+      "vietnamese": "school",
+      "aliases": [
+        "school"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/school_school.png",
+      "audioPath": "assets/audio/words/school.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "school_gate",
+      "english": "school gate",
+      "vietnamese": "school gate",
+      "aliases": [
+        "school gate"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/school_gate.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "schoolyard",
+      "english": "schoolyard",
+      "vietnamese": "schoolyard",
+      "aliases": [
+        "schoolyard"
+      ],
+      "topicIds": [
+        "places_school"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/schoolyard.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "places_school",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "scissors",
+      "english": "scissors",
+      "vietnamese": "scissors",
+      "aliases": [
+        "scissors"
+      ],
+      "topicIds": [
+        "class_things"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/school_scissors.png",
+      "audioPath": "assets/audio/words/scissors.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "class_things",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "sheep",
+      "english": "sheep",
+      "vietnamese": "cừu",
+      "aliases": [
+        "sheep"
+      ],
+      "topicIds": [
+        "animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_sheep.png",
+      "audioPath": "assets/audio/words/sheep.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE 2C- ANIMALS( C41).pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour animal is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shirt",
+      "english": "shirt",
+      "vietnamese": "áo sơ mi",
+      "aliases": [
+        "shirt"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/clothes_shirt.png",
+      "audioPath": "assets/audio/words/shirt.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 7 - PRE 1A - CLOTHES (C40) (1).pdf",
+          "page": 1,
+          "week": 7,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What colour clothing is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shoes",
+      "english": "shoes",
+      "vietnamese": "giày",
+      "aliases": [
+        "shoes"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/clothes_shoes.png",
+      "audioPath": "assets/audio/words/shoes.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4- PRE 2C- CLOTHES(C41).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What is it?",
+            "What are these?"
+          ]
+        },
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 7 - PRE 1A - CLOTHES (C40) (1).pdf",
+          "page": 1,
+          "week": 7,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What colour clothing is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "english": "shorts",
+      "vietnamese": "quần soóc",
+      "aliases": [
+        "shorts"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/clothes_shorts.png",
+      "audioPath": "assets/audio/words/shorts.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 7 - PRE 1A - CLOTHES (C40) (1).pdf",
+          "page": 1,
+          "week": 7,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What colour clothing is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shoulders",
+      "english": "shoulders",
+      "vietnamese": "shoulders",
+      "aliases": [
+        "shoulders"
+      ],
+      "topicIds": [
+        "body_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/shoulders.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "shy",
+      "english": "shy",
+      "vietnamese": "shy",
+      "aliases": [
+        "shy"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/shy.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "sister",
+      "english": "sister",
+      "vietnamese": "chị/em gái",
+      "aliases": [
+        "sister"
+      ],
+      "topicIds": [
+        "family",
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/family_sister.png",
+      "audioPath": "assets/audio/words/sister.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 6- PRE 2C- FAMILY( C41).docx.pdf",
+          "page": 1,
+          "week": 6,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "family",
+          "sentencePatterns": [
+            "Who is it?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "skeleton",
+      "english": "skeleton",
+      "vietnamese": "skeleton",
+      "aliases": [
+        "skeleton"
+      ],
+      "topicIds": [
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/skeleton.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "skipping",
+      "english": "skipping",
+      "vietnamese": "nhảy dây",
+      "aliases": [
+        "skipping"
+      ],
+      "topicIds": [
+        "activities"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/skipping.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 13 - PRE 1B - ACTIVITIES (C40) (1).pdf",
+          "page": 1,
+          "week": 13,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "activities",
+          "sentencePatterns": [
+            "What is it?",
+            "What do you like to do?",
+            "Do you like …?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skirt",
+      "english": "skirt",
+      "vietnamese": "chân váy",
+      "aliases": [
+        "skirt"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/skirt.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 7 - PRE 1A - CLOTHES (C40) (1).pdf",
+          "page": 1,
+          "week": 7,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What colour clothing is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sky",
+      "english": "sky",
+      "vietnamese": "sky",
+      "aliases": [
+        "sky"
+      ],
+      "topicIds": [
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/sky.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "sleepy",
+      "english": "sleepy",
+      "vietnamese": "sleepy",
+      "aliases": [
+        "sleepy"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/sleepy.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "snake",
+      "english": "snake",
+      "vietnamese": "rắn",
+      "aliases": [
+        "snake"
+      ],
+      "topicIds": [
+        "animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/snake.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE 2C- ANIMALS( C41).pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour animal is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "socks",
+      "english": "socks",
+      "vietnamese": "tất",
+      "aliases": [
+        "socks"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/clothes_socks.png",
+      "audioPath": "assets/audio/words/socks.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 7 - PRE 1A - CLOTHES (C40) (1).pdf",
+          "page": 1,
+          "week": 7,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What colour clothing is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soup",
+      "english": "soup",
+      "vietnamese": "súp",
+      "aliases": [
+        "soup"
+      ],
+      "topicIds": [
+        "food"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/food_soup.png",
+      "audioPath": "assets/audio/words/soup.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 11 - PRE 1B - FOOD (C40).pdf",
+          "page": 1,
+          "week": 11,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "food",
+          "sentencePatterns": [
+            "What is this?",
+            "What do you like?",
+            "What don’t you like?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spider",
+      "english": "spider",
+      "vietnamese": "spider",
+      "aliases": [
+        "spider"
+      ],
+      "topicIds": [
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/spider.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "square",
+      "english": "square",
+      "vietnamese": "hình vuông",
+      "aliases": [
+        "square"
+      ],
+      "topicIds": [
+        "shapes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/shapes_square.png",
+      "audioPath": "assets/audio/words/square.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE1B - UNIT 1 - C40.pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "shapes",
+          "sentencePatterns": [
+            "What shape is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stairs",
+      "english": "stairs",
+      "vietnamese": "stairs",
+      "aliases": [
+        "stairs"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/stairs.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "star",
+      "english": "star",
+      "vietnamese": "ngôi sao",
+      "aliases": [
+        "star"
+      ],
+      "topicIds": [
+        "mid_autumn",
+        "shapes"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/shapes_star.png",
+      "audioPath": "assets/audio/words/star.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE1B - UNIT 1 - C40.pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "shapes",
+          "sentencePatterns": [
+            "What shape is it?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "study",
+      "english": "study",
+      "vietnamese": "study",
+      "aliases": [
+        "study"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/rooms_study.png",
+      "audioPath": "assets/audio/words/study.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "suit",
+      "english": "suit",
+      "vietnamese": "com-lê",
+      "aliases": [
+        "suit"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/suit.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4- PRE 2C- CLOTHES(C41).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What is it?",
+            "What are these?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "surprised",
+      "english": "surprised",
+      "vietnamese": "surprised",
+      "aliases": [
+        "surprised"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/surprised.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "swimming",
+      "english": "swimming",
+      "vietnamese": "bơi",
+      "aliases": [
+        "swimming"
+      ],
+      "topicIds": [
+        "activities"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/swimming.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 13 - PRE 1B - ACTIVITIES (C40) (1).pdf",
+          "page": 1,
+          "week": 13,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "activities",
+          "sentencePatterns": [
+            "What is it?",
+            "What do you like to do?",
+            "Do you like …?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tablet",
+      "english": "tablet",
+      "vietnamese": "máy tính bảng",
+      "aliases": [
+        "tablet"
+      ],
+      "topicIds": [
+        "electronics"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/original_tablet.png",
+      "audioPath": "assets/audio/words/tablet.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "week-5-electronics.jpg",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "electronics",
+          "sentencePatterns": [
+            "What is it?",
+            "How many … are there?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "teddy_bear",
+      "english": "teddy bear",
+      "vietnamese": "gấu bông",
+      "aliases": [
+        "teddy bear"
+      ],
+      "topicIds": [
+        "toys"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/toys_teddy_bear.png",
+      "audioPath": "assets/audio/words/teddy_bear.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 9 - PRE 1B - TOYS (C40).pdf",
+          "page": 1,
+          "week": 9,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "toys",
+          "sentencePatterns": [
+            "What toy is it?",
+            "What are they?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "teeth",
+      "english": "teeth",
+      "vietnamese": "răng",
+      "aliases": [
+        "teeth"
+      ],
+      "topicIds": [
+        "face",
+        "face_body",
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/teeth.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "Week 3- Pre 2C- Face and body parts.pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "face_body",
+          "sentencePatterns": [
+            "What is this?",
+            "What are these?"
+          ]
+        },
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 5 - PRE 1B - FACE (C40) (1).pdf",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "face",
+          "sentencePatterns": [
+            "What is it?",
+            "What are they?",
+            "How many … are there?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "television",
+      "english": "television",
+      "vietnamese": "tivi",
+      "aliases": [
+        "television",
+        "tv"
+      ],
+      "topicIds": [
+        "electronics"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/household_television.png",
+      "audioPath": "assets/audio/words/television.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "week-5-electronics.jpg",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "electronics",
+          "sentencePatterns": [
+            "What is it?",
+            "How many … are there?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thirsty",
+      "english": "thirsty",
+      "vietnamese": "thirsty",
+      "aliases": [
+        "thirsty"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/thirsty.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "tie",
+      "english": "tie",
+      "vietnamese": "cà vạt",
+      "aliases": [
+        "tie"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/tie.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4- PRE 2C- CLOTHES(C41).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What is it?",
+            "What are these?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tiger",
+      "english": "tiger",
+      "vietnamese": "hổ",
+      "aliases": [
+        "tiger"
+      ],
+      "topicIds": [
+        "zoo_animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/animals_tiger.png",
+      "audioPath": "assets/audio/words/tiger.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 14 - PRE 1C - ZOO ANIMALS (C40) (1).pdf",
+          "page": 1,
+          "week": 14,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "zoo_animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour is the animal?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tired",
+      "english": "tired",
+      "vietnamese": "tired",
+      "aliases": [
+        "tired"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/tired.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "toes",
+      "english": "toes",
+      "vietnamese": "toes",
+      "aliases": [
+        "toes"
+      ],
+      "topicIds": [
+        "body_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/toes.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "toilet",
+      "english": "toilet",
+      "vietnamese": "toilet",
+      "aliases": [
+        "toilet"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/household_toilet.png",
+      "audioPath": "assets/audio/words/toilet.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "tongue",
+      "english": "tongue",
+      "vietnamese": "lưỡi",
+      "aliases": [
+        "tongue"
+      ],
+      "topicIds": [
+        "face",
+        "face_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred",
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/body_parts_tongue.png",
+      "audioPath": "assets/audio/words/tongue.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 5 - PRE 1B - FACE (C40) (1).pdf",
+          "page": 1,
+          "week": 5,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "face",
+          "sentencePatterns": [
+            "What is it?",
+            "What are they?",
+            "How many … are there?"
+          ]
+        },
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "face_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "tooth",
+      "english": "tooth",
+      "vietnamese": "răng",
+      "aliases": [
+        "tooth"
+      ],
+      "topicIds": [
+        "face_body"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/body_parts_tooth.png",
+      "audioPath": "assets/audio/words/tooth.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "Week 3- Pre 2C- Face and body parts.pdf",
+          "page": 1,
+          "week": 3,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "face_body",
+          "sentencePatterns": [
+            "What is this?",
+            "What are these?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tree",
+      "english": "tree",
+      "vietnamese": "cây",
+      "aliases": [
+        "tree"
+      ],
+      "topicIds": [
+        "nature"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/tree.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 12 - PRE 1B - NATURE (C40) (1).pdf",
+          "page": 1,
+          "week": 12,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "nature",
+          "sentencePatterns": [
+            "What is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "triangle",
+      "english": "triangle",
+      "vietnamese": "hình tam giác",
+      "aliases": [
+        "triangle"
+      ],
+      "topicIds": [
+        "shapes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/shapes_triangle.png",
+      "audioPath": "assets/audio/words/triangle.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 1 - PRE1B - UNIT 1 - C40.pdf",
+          "page": 1,
+          "week": 1,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "shapes",
+          "sentencePatterns": [
+            "What shape is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trousers",
+      "english": "trousers",
+      "vietnamese": "quần dài",
+      "aliases": [
+        "trousers"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/trousers.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4- PRE 2C- CLOTHES(C41).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What is it?",
+            "What are these?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tshirt",
+      "english": "tshirt",
+      "vietnamese": "áo phông",
+      "aliases": [
+        "t-shirt",
+        "tshirt"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/tshirt.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 7 - PRE 1A - CLOTHES (C40) (1).pdf",
+          "page": 1,
+          "week": 7,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What colour clothing is it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tummy",
+      "english": "tummy",
+      "vietnamese": "tummy",
+      "aliases": [
+        "tummy"
+      ],
+      "topicIds": [
+        "body_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "medium",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/tummy.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "body_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "uncle",
+      "english": "uncle",
+      "vietnamese": "uncle",
+      "aliases": [
+        "uncle"
+      ],
+      "topicIds": [
+        "family_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/uncle.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "family_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "underwear",
+      "english": "underwear",
+      "vietnamese": "đồ lót",
+      "aliases": [
+        "underwear"
+      ],
+      "topicIds": [
+        "clothes"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/underwear.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 4- PRE 2C- CLOTHES(C41).pdf",
+          "page": 1,
+          "week": 4,
+          "schoolLevel": "Pre-Starters 2",
+          "topic": "clothes",
+          "sentencePatterns": [
+            "What is it?",
+            "What are these?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "walking",
+      "english": "walking",
+      "vietnamese": "đi bộ",
+      "aliases": [
+        "walking"
+      ],
+      "topicIds": [
+        "activities"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/walking.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 13 - PRE 1B - ACTIVITIES (C40) (1).pdf",
+          "page": 1,
+          "week": 13,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "activities",
+          "sentencePatterns": [
+            "What is it?",
+            "What do you like to do?",
+            "Do you like …?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "english": "water",
+      "vietnamese": "nước",
+      "aliases": [
+        "water"
+      ],
+      "topicIds": [
+        "food"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/drinks_water.png",
+      "audioPath": "assets/audio/words/water.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 11 - PRE 1B - FOOD (C40).pdf",
+          "page": 1,
+          "week": 11,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "food",
+          "sentencePatterns": [
+            "What is this?",
+            "What do you like?",
+            "What don’t you like?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "window",
+      "english": "window",
+      "vietnamese": "window",
+      "aliases": [
+        "window"
+      ],
+      "topicIds": [
+        "rooms_extra"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/furniture_window.png",
+      "audioPath": "assets/audio/words/window.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "rooms_extra",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "witch",
+      "english": "witch",
+      "vietnamese": "witch",
+      "aliases": [
+        "witch"
+      ],
+      "topicIds": [
+        "halloween"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/witch.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "halloween",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "worried",
+      "english": "worried",
+      "vietnamese": "worried",
+      "aliases": [
+        "worried"
+      ],
+      "topicIds": [
+        "feelings"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "hard",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/worried.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "feelings",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "yellow",
+      "english": "yellow",
+      "vietnamese": "yellow",
+      "aliases": [
+        "yellow"
+      ],
+      "topicIds": [
+        "mid_autumn"
+      ],
+      "sourceTypes": [
+        "extra_class_inferred"
+      ],
+      "difficulty": "easy",
+      "imagePath": "assets/images/colors_yellow.png",
+      "audioPath": "assets/audio/words/yellow.wav",
+      "provenance": [
+        {
+          "sourceType": "extra_class_inferred",
+          "file": "video-topics.PNG",
+          "page": 1,
+          "week": null,
+          "schoolLevel": "Extra class",
+          "topic": "mid_autumn",
+          "sentencePatterns": []
+        }
+      ]
+    },
+    {
+      "id": "zebra",
+      "english": "zebra",
+      "vietnamese": "ngựa vằn",
+      "aliases": [
+        "zebra"
+      ],
+      "topicIds": [
+        "zoo_animals"
+      ],
+      "sourceTypes": [
+        "school_verified"
+      ],
+      "difficulty": "easy",
+      "imagePath": null,
+      "audioPath": "assets/audio/words/zebra.wav",
+      "provenance": [
+        {
+          "sourceType": "school_verified",
+          "file": "WEEK 14 - PRE 1C - ZOO ANIMALS (C40) (1).pdf",
+          "page": 1,
+          "week": 14,
+          "schoolLevel": "Pre-Starters 1",
+          "topic": "zoo_animals",
+          "sentencePatterns": [
+            "What animal is it?",
+            "What colour is the animal?"
+          ]
+        }
+      ]
+    }
+  ]
+}

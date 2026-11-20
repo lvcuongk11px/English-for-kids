@@ -1,0 +1,1239 @@
+{
+  "notoEmoji": [
+    {
+      "file": "animals_cat.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f408.png",
+      "sha256": "4ab5f1911f092965447f54cf6674006c63cdba1cf33827093fe14b4fee5f4f0d"
+    },
+    {
+      "file": "animals_dog.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f415.png",
+      "sha256": "30dd590b5db55e6cd4eb57759f5a37e02fcdccf7d4ccb28acf600094365c7d82"
+    },
+    {
+      "file": "animals_pig.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f416.png",
+      "sha256": "68986851b93d08bf89d82c25bcd04b4c39e8ff872150cfde3359c21a95502976"
+    },
+    {
+      "file": "animals_cow.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f404.png",
+      "sha256": "82962a7c74bad7677d17db846cf94952ad982f19a490af759ae258f1b8f2f552"
+    },
+    {
+      "file": "animals_duck.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f986.png",
+      "sha256": "43f59d0c2092403d4b1b00ccbcd7aa2f0745a507eac7b0c2b0368414b459d3f9"
+    },
+    {
+      "file": "animals_chicken.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f414.png",
+      "sha256": "60d8b386f16bc4f5833f54361da88b30542ba6e4417a1e050bb04cb8a169e177"
+    },
+    {
+      "file": "animals_sheep.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f411.png",
+      "sha256": "117302bca736e273c16b570f7d2da8d8e152e5c1fa3ffabb1a4418c355b577f5"
+    },
+    {
+      "file": "animals_horse.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f40e.png",
+      "sha256": "f9ce53adfa2046b1c1081d6ea17a3e7e2de44066870ff2576f2adca6e57ae8a7"
+    },
+    {
+      "file": "animals_fish.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f41f.png",
+      "sha256": "238438415735c03655a4ea6025496e9fee30e1344b5fdfe577df1e5eaa73da7d"
+    },
+    {
+      "file": "animals_bird.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f426.png",
+      "sha256": "3df8c2b5deccee215a5b67b78235707c25a6384a5bfabe4eca4f74e1a611af23"
+    },
+    {
+      "file": "animals_rabbit.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f407.png",
+      "sha256": "0112b88655c4317c8c93c88624cc4e604e82e08abccd03a60866dca7123d9a96"
+    },
+    {
+      "file": "animals_elephant.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f418.png",
+      "sha256": "342441806f37b501f92f0c369848d87bba3b194cd69ed8a6c3b8c58df40253d3"
+    },
+    {
+      "file": "animals_lion.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f981.png",
+      "sha256": "10ab3209c52dd33084a0a8f8f7636c8f5d6b327b8d3dbfefe83f35b9da34a356"
+    },
+    {
+      "file": "animals_tiger.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f405.png",
+      "sha256": "93ae40103a080e563cb2d0aa42c80eae12680948e595ca401ae8443088d19725"
+    },
+    {
+      "file": "animals_monkey.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f412.png",
+      "sha256": "001ac05586d49d309b2719a4788ddea3063389e108af40fbce5ffbf72b3bdd5a"
+    },
+    {
+      "file": "animals_bear.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f43b.png",
+      "sha256": "89412fd89daca95c620524f2171c43dc0d18fe759506a950456671bab5ed6e32"
+    },
+    {
+      "file": "animals_panda.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f43c.png",
+      "sha256": "797793608c9fe7f729b5c976c516c2943646a81e9d40392c9d02cbdf99f12f6f"
+    },
+    {
+      "file": "animals_frog.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f438.png",
+      "sha256": "f0045db4d752a81ef9a9543accc503ca02769572a005d61c751d325fdc108b3c"
+    },
+    {
+      "file": "animals_turtle.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f422.png",
+      "sha256": "bfa9f4e0b002de18988bc948d4d103e415611f410f596b9ec51de74c31e6381d"
+    },
+    {
+      "file": "animals_butterfly.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f98b.png",
+      "sha256": "96b65d4557ec399b5f9df8be8694db1387967e8a1bb807db3f653d9932dd2b99"
+    },
+    {
+      "file": "animals_bee.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f41d.png",
+      "sha256": "85d018ce6d748ef6104b00dcee2126f231ffacb6cf0619e5df7ff9ec8abdf3cc"
+    },
+    {
+      "file": "animals_ladybug.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f41e.png",
+      "sha256": "0453236bf59476858eff1a07c52b5644b395fd13fc7d67a22231c1a6bde7e55e"
+    },
+    {
+      "file": "animals_snail.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f40c.png",
+      "sha256": "7e4082a7830ce2d253457c8d4d50d612b3090cf47af083abc73c44998e693127"
+    },
+    {
+      "file": "animals_whale.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f40b.png",
+      "sha256": "b88a516750d7d9e522c7bf582e300ab0353e3b127fbd4cd441b909ff1671a252"
+    },
+    {
+      "file": "animals_dolphin.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f42c.png",
+      "sha256": "256925e8f67a88452a41b3ebbbb36d0b77438f183363bf012e8cb869ae2952d6"
+    },
+    {
+      "file": "body_parts_head.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9d1.png",
+      "sha256": "219101a9718aea2b5775dbdbda152336aef5673cf3a5deab6f19582b21cbd4bc"
+    },
+    {
+      "file": "body_parts_hair.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9b1.png",
+      "sha256": "0b68853138dc9e32abdefc636d12e9f948872f353c04e28fdb8e0197c3649a2b"
+    },
+    {
+      "file": "body_parts_face.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f600.png",
+      "sha256": "68e138367a09a9c0d897b5bcc43010291514185ad5d427587c883f1761a7de5e"
+    },
+    {
+      "file": "body_parts_eyes.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f440.png",
+      "sha256": "09337ce11e063b37f2e402a1f12cc11d790c78b86a5adf70f68df39e3cb76eb0"
+    },
+    {
+      "file": "body_parts_ears.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f442.png",
+      "sha256": "273f18fc5e44cb37034ec753265f629b4ae25046eca4b363dc6c09cf8cfa499b"
+    },
+    {
+      "file": "body_parts_nose.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f443.png",
+      "sha256": "ef57f2e830a8920f0c221a1d1ad9ca24afc687fb9fd9413b4235a27f2d4fbf4d"
+    },
+    {
+      "file": "body_parts_mouth.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f444.png",
+      "sha256": "f6eca2657b81f730cc6420deba3a3342ed8797dfaa146d610b1746ee11818995"
+    },
+    {
+      "file": "body_parts_tongue.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f445.png",
+      "sha256": "b108f0abbf5914cf524fe9a3c45b2516f782fb49886fa0a5a6d1fa298865049d"
+    },
+    {
+      "file": "body_parts_tooth.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9b7.png",
+      "sha256": "2150be6b05647f1ae3496fa7e48d0524b4d43a22ee704049d74609c0f21a5039"
+    },
+    {
+      "file": "body_parts_hand.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u270b.png",
+      "sha256": "5b298722e6498c1132785b902e7030e1de979dbdf0bcfc113c3317b6ac877574"
+    },
+    {
+      "file": "body_parts_finger.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f446.png",
+      "sha256": "49f201b623f02a0617bcbc3eb55e40ff7711e4d39635b3e0541699236c1484dd"
+    },
+    {
+      "file": "body_parts_foot.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9b6.png",
+      "sha256": "d433067782c4e97eccec32e61e6ceff397a2dbffa540766ec2b6a320b0c7c438"
+    },
+    {
+      "file": "body_parts_arm.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4aa.png",
+      "sha256": "971fe1a2142c6d6953412d2484352a579e40c820a5f4f55367b410179e0824eb"
+    },
+    {
+      "file": "body_parts_leg.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9b5.png",
+      "sha256": "a79d3228b39bde9fa190e640aa594c71f6a5d524bba48fee8b299c4445a3cf85"
+    },
+    {
+      "file": "body_parts_heart.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u2764.png",
+      "sha256": "e082e28604628653d6cf4f41ae301a23705ad388b824cfa3525d7b7980ba3e90"
+    },
+    {
+      "file": "body_parts_brain.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9e0.png",
+      "sha256": "1c44dc64bf5bfa16851ad8f2b5acabb7e6272de461afc64b54b8a8fded9bece6"
+    },
+    {
+      "file": "body_parts_bone.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9b4.png",
+      "sha256": "429f7c01032da15d4653fc81775566bcfbd711df2adaf94701d28090e8d4afb5"
+    },
+    {
+      "file": "body_parts_nails.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f485.png",
+      "sha256": "c0089c54450ecb3acb9e5007b13aa2226767c39f2330f72e170ddba06528fdd4"
+    },
+    {
+      "file": "vehicles_car.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f697.png",
+      "sha256": "d20ec50afae735f198a5715201a5ee2bdf491cc9d02cd8e3338489edb2aea3fb"
+    },
+    {
+      "file": "vehicles_bus.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f68c.png",
+      "sha256": "32c0b59ff59b0b6e130784a95d0d5da08f2d4f567f54ceab8dc3c41a428d266f"
+    },
+    {
+      "file": "vehicles_bicycle.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6b2.png",
+      "sha256": "5f305976e6d4f75bad953fe96c566e535d88c2060563ee462cfd2fddc307bc8f"
+    },
+    {
+      "file": "vehicles_train.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f686.png",
+      "sha256": "982d277aa79e29911c2cec27ce1fb27349dce63448ee3bf8bca7f481dc93e9bd"
+    },
+    {
+      "file": "vehicles_airplane.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u2708.png",
+      "sha256": "a8144f0b7aeb984caef0650c28b6bbc03762f17e94ced388800e3c3ec886f6c5"
+    },
+    {
+      "file": "vehicles_boat.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u26f5.png",
+      "sha256": "8da1e219cbcc596fd694f6f0b3efebb2673887aa488670249dfeb504d4f65719"
+    },
+    {
+      "file": "vehicles_truck.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f69a.png",
+      "sha256": "a5158895d2f9d55bf5bcc78b8aea4aa782192e1ed010d86a7b28d61f07a3a516"
+    },
+    {
+      "file": "vehicles_motorcycle.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3cd.png",
+      "sha256": "c726466ff4ecdbea978efc8eb7c944e911f06d4b22a1eae5ce200d7c792cf642"
+    },
+    {
+      "file": "vehicles_helicopter.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f681.png",
+      "sha256": "22f805f060330faa002038dbf20bf9ab0dedaf2975c98f72861d9a1b55615797"
+    },
+    {
+      "file": "vehicles_scooter.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6f4.png",
+      "sha256": "925fba404a8faac60819c24f46aaf8d56fb473fc90b025210e7f69a5a1ecc60c"
+    },
+    {
+      "file": "vehicles_taxi.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f695.png",
+      "sha256": "5fe605b566acfb0695cfea096e1bf0d96f316ad64d17be3f7b1685ee12fcfa5c"
+    },
+    {
+      "file": "vehicles_ambulance.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f691.png",
+      "sha256": "42fb25606d41ed7e33780a237453b5f9e9aaa9e9e476bdeb16a4d19fa1c0894a"
+    },
+    {
+      "file": "vehicles_fire_engine.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f692.png",
+      "sha256": "63e175728eb2d5b7d505977be7fc2ae1f83330491f271e9321630ccd3b421d09"
+    },
+    {
+      "file": "vehicles_police_car.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f693.png",
+      "sha256": "c31c8b8e446bddcb4945c79ee7613d952bbf7d9387157159badaee36367ca1b7"
+    },
+    {
+      "file": "vehicles_tractor.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f69c.png",
+      "sha256": "9eef1afaa38adbea3581e2a537a5af988f279fa7c41869b490015db0225db1fa"
+    },
+    {
+      "file": "vehicles_rocket.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f680.png",
+      "sha256": "9c48b370461ac473df77333352655b801372795ea815bb211ce2620be6d96e5a"
+    },
+    {
+      "file": "vehicles_ship.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6a2.png",
+      "sha256": "cf5e09c9cda34d3761b4bf102de28e6e18c05ef50a8e1951cf4b224587c3e908"
+    },
+    {
+      "file": "vehicles_tram.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f68a.png",
+      "sha256": "94beae32e88a2bdaeded0715c1c3daaff2ca4b6925aa99a09cee88673ddee524"
+    },
+    {
+      "file": "vehicles_van.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f690.png",
+      "sha256": "d98cfd70d843bbb83b76579d45e40852aa140005cca9500377ebe9c1291ae686"
+    },
+    {
+      "file": "vehicles_canoe.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6f6.png",
+      "sha256": "53ca4ccb5c9b4ed1326d9cac91cc4cef46a851493443292f3a6c344a3a954331"
+    },
+    {
+      "file": "household_clock.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u23f0.png",
+      "sha256": "beb1fdd1b65673b91f2df9bd318c285486608a8e007c8a31e65ae4f93aa11ce6"
+    },
+    {
+      "file": "household_lamp.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fa94.png",
+      "sha256": "b76d80bb6498fab85329b7a9645d181243916e34a6bcf23508910940f4ec6777"
+    },
+    {
+      "file": "household_phone.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4f1.png",
+      "sha256": "c7d5b98f1f771776faec79e9a70c8cd8d030e412da01b2da285ea7c6c67cdec2"
+    },
+    {
+      "file": "household_television.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4fa.png",
+      "sha256": "fae0b6a8beeea5c6ce10996f7402fe77ee29848b4e063b44321e50db29ede21c"
+    },
+    {
+      "file": "household_key.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f511.png",
+      "sha256": "1c7eb4198615ae7b0abbcd3f675caae6240399bfdd5a9f92c054eded27b79359"
+    },
+    {
+      "file": "household_cup.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u2615.png",
+      "sha256": "b00dd39df9b57808ec541ad03e4a48a12e30d347bd7fbbb7f925b1478d1fdafa"
+    },
+    {
+      "file": "household_plate.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f37d.png",
+      "sha256": "58f0baf409f531366a7cd9ffab238d0bce72b69a31a8dad055ba696b97ab8107"
+    },
+    {
+      "file": "household_spoon.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f944.png",
+      "sha256": "aa648ab31ee936a70509b4aa846c8bdfa3470b3c234746f4bda6b160cc250cc2"
+    },
+    {
+      "file": "household_toothbrush.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1faa5.png",
+      "sha256": "4f178fef2053ba8796e7f352e259b747ac2d3660ee3da604246fac567acfa53f"
+    },
+    {
+      "file": "household_soap.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9fc.png",
+      "sha256": "45c0b0f623d70fab279ae92d6bffdfb3bc1304713db4688aee827c7c55e1b151"
+    },
+    {
+      "file": "household_broom.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9f9.png",
+      "sha256": "e851e958be2a4aefc48b468826a36c4a98e8e16fd12a054ddc57f53e541d41bb"
+    },
+    {
+      "file": "household_bucket.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1faa3.png",
+      "sha256": "302958c75e919b6e3df665000d92d81d54fb0dc62fbb99fe9072921c0cef3707"
+    },
+    {
+      "file": "household_basket.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9fa.png",
+      "sha256": "98afa709590407697f84b8b6c4e24097684401decbf26010f4c1b80e8e2a9f54"
+    },
+    {
+      "file": "household_sponge.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9fd.png",
+      "sha256": "8afaf725d2514c5f3e64ab99757556d4ad63ddd342cddad92bdcfc5e51a5be63"
+    },
+    {
+      "file": "household_toilet_paper.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9fb.png",
+      "sha256": "c83cd1fb020630463de691ac56edacb59ed59f584b37158908d3c133660dd3d5"
+    },
+    {
+      "file": "household_trash_can.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f5d1.png",
+      "sha256": "bc4a418da6c48589f9c7a1c11053b98eca0961bc5f5ddd3059215edd8c33fec5"
+    },
+    {
+      "file": "household_toilet.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6bd.png",
+      "sha256": "061396fec8678621420bc18b4cb57679d98905cb84c40dc45da1b8900e28020e"
+    },
+    {
+      "file": "household_bathtub.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6c1.png",
+      "sha256": "6afae004f5e3d0f0825697998982392b3d7d4451b6d12ce6e93d9ae43bc34c9e"
+    },
+    {
+      "file": "household_shower.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6bf.png",
+      "sha256": "9495d8b0c4e14e136133b0bd0c9f35def8991ad59d75fe52f5e53e26116ef110"
+    },
+    {
+      "file": "household_door.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6aa.png",
+      "sha256": "c4fc916f227d159f8e7fbcc18238abd6bdb1d47ef7c0242a54e5c938d08d10e5"
+    },
+    {
+      "file": "household_lock.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f512.png",
+      "sha256": "f02b816c2ceb68e34b14190cdf6a37acea6c0f7e7d7750b0a4e049738be0d998"
+    },
+    {
+      "file": "household_fan.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1faad.png",
+      "sha256": "1180eacdc72281c833e52de72b4fa7647e8078b1d54abac30a5018e0ebb5bc5b"
+    },
+    {
+      "file": "rooms_kitchen.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f373.png",
+      "sha256": "3895f6e45914cb5a871425efd0926bc07a814a5d867fbb614f1e5cbfb3090d9a"
+    },
+    {
+      "file": "rooms_bedroom.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6cf.png",
+      "sha256": "83747d8c2d976de95fef3a7f995fff038d43bbf680fd333d3620115afb2403d5"
+    },
+    {
+      "file": "rooms_bathroom.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6c1.png",
+      "sha256": "6afae004f5e3d0f0825697998982392b3d7d4451b6d12ce6e93d9ae43bc34c9e"
+    },
+    {
+      "file": "rooms_living_room.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6cb.png",
+      "sha256": "fbc2ee00cddd22e79a66880e694b967818ba826cfe0328a130f8b9b5fbe6bfa5"
+    },
+    {
+      "file": "rooms_dining_room.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f37d.png",
+      "sha256": "83bc6e814fdce42cbdd6fd403154f297fa8ef13cf9d3bf6e7964b46473569865"
+    },
+    {
+      "file": "rooms_study.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4da.png",
+      "sha256": "23859af4c73f42e005d5ad98684b620a1c013e13fd337e9b5c16204eb4672bd7"
+    },
+    {
+      "file": "rooms_laundry_room.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9fa.png",
+      "sha256": "845e2c234605becd9f620ca96a0e20d0da0925816b968435e7f8968d7da17369"
+    },
+    {
+      "file": "rooms_garage.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3e0.png",
+      "sha256": "b6989e9a759b1cf19e95145a19fd7cc50997926bfa41bcf944690d90d900c820"
+    },
+    {
+      "file": "fruits_apple.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f34e.png",
+      "sha256": "1b4c91b4a10eb61299bfc3730f27a12cf46128231c52849fefae27a0fcc752b2"
+    },
+    {
+      "file": "fruits_banana.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f34c.png",
+      "sha256": "f2310df223e1a58d7f8f961828154aac14fad3a2d946e4bb3cb89c232d880f7c"
+    },
+    {
+      "file": "fruits_orange.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f34a.png",
+      "sha256": "198da530955b61e3b88aa5323ddd90b200cee5823fe071fb053b7e0f238372a4"
+    },
+    {
+      "file": "fruits_mango.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f96d.png",
+      "sha256": "526a32f40f178b918e5cff6fd95e0ad48ac85416ad490ea8a407cd7d9dbd8880"
+    },
+    {
+      "file": "fruits_grapes.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f347.png",
+      "sha256": "b2b9ec3a94a3eaf1e464d12b1915982d50e781cea5b4a25a7a5d0a86f46d6f9f"
+    },
+    {
+      "file": "fruits_watermelon.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f349.png",
+      "sha256": "bfb25330ed591e1626cda7462c3dfdcf486aca8ecbb167e1d97b9be312089ef5"
+    },
+    {
+      "file": "fruits_strawberry.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f353.png",
+      "sha256": "3501d36513437e05f6b51f0264c4ac571b20ee5caddb4917c7625a9e78e729be"
+    },
+    {
+      "file": "fruits_pineapple.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f34d.png",
+      "sha256": "32d65ce36b3ddbd687cd37a2b2aa4bd1f5ad62b9005a5a1e90111314bc823a58"
+    },
+    {
+      "file": "fruits_pear.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f350.png",
+      "sha256": "6461a59412a67c03ad85495ddde24db401f286377dff1a567413452be0dc8fcc"
+    },
+    {
+      "file": "fruits_peach.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f351.png",
+      "sha256": "d7c65c5c1d998cff4ee09d4c8a3c36c13d368c5a7cd6f60a9379d412ae05bcd6"
+    },
+    {
+      "file": "fruits_cherries.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f352.png",
+      "sha256": "5c540741cd55246a2ced5427a1bb3028d7990d14bf23e586420022040389e62e"
+    },
+    {
+      "file": "fruits_lemon.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f34b.png",
+      "sha256": "3b9f7099ee149645d2346e8fd61d9bf4b0f10fb2b4228e82173bfb7e33b90b4d"
+    },
+    {
+      "file": "fruits_coconut.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f965.png",
+      "sha256": "9d4463409303105bbc7a3a62eda45617a16fdd128668d9e8f4fb764be6de925c"
+    },
+    {
+      "file": "fruits_kiwi.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f95d.png",
+      "sha256": "a16be7aa365c9a9733d477168e58895a14286bc8e9151a798cd41230528e7c2c"
+    },
+    {
+      "file": "fruits_melon.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f348.png",
+      "sha256": "b57969bc2c97da10c864f1b015327c124bf82ea11d87301b5a72c7c8adbbc364"
+    },
+    {
+      "file": "fruits_blueberries.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fad0.png",
+      "sha256": "2ef5ccfbe05b27eda860988c419f4853305e340a78f0976a91a2b1fa9cf2ef6d"
+    },
+    {
+      "file": "fruits_avocado.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f951.png",
+      "sha256": "85fc60f0b1a747816e93142919530caf3f8f5458e621484a3f5640fd71cd34fc"
+    },
+    {
+      "file": "fruits_tomato.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f345.png",
+      "sha256": "7a7723c60f56cc9b94735b3700de40545b0ce761a31b48a35526a74843177d6d"
+    },
+    {
+      "file": "vegetables_carrot.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f955.png",
+      "sha256": "ed201bbd6eb067583ee82678e73fc391d6151ba082b91a89c3e2140216a44036"
+    },
+    {
+      "file": "vegetables_corn.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f33d.png",
+      "sha256": "5aa8d85b8b64e0ddb620a5d1230341e6cbb6460b6692c1f62cd1fe2435347c69"
+    },
+    {
+      "file": "vegetables_broccoli.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f966.png",
+      "sha256": "3c1fbe9d3f6de23348ca8d9066c9d67a70cc9b9cb72376d1dadd08fffcb87851"
+    },
+    {
+      "file": "vegetables_cucumber.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f952.png",
+      "sha256": "e0a8e7a2efff910cabe0c293082073f58fc93c1a3acb9e069a73a46ac46135ee"
+    },
+    {
+      "file": "vegetables_pepper.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fad1.png",
+      "sha256": "1f68c8bb67ea396080a2f2f006c79df4d07642cc6ed90d49ab42aed04a2401d5"
+    },
+    {
+      "file": "vegetables_mushroom.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f344.png",
+      "sha256": "4d20205bb9273601f36b36841405367f275bcb4584382431ecfb06955a1644bd"
+    },
+    {
+      "file": "vegetables_potato.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f954.png",
+      "sha256": "c5323ff9db83b022edeb3f3b40c9bd2a4dc108a983f1fdb00df70c71a27735b7"
+    },
+    {
+      "file": "vegetables_onion.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9c5.png",
+      "sha256": "66cea0cadbcaf0f69b4c21c2c69b9f560624f83f2a24372104796313cb376bc1"
+    },
+    {
+      "file": "vegetables_garlic.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9c4.png",
+      "sha256": "7155408ee22ca5703eb3de394d1204f0183b0409d50217349e5afd6889ba76b4"
+    },
+    {
+      "file": "vegetables_lettuce.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f96c.png",
+      "sha256": "c98a83498ed0061a807a09f2f8bc1bffcce0308a955235a3806248bf423c7c2f"
+    },
+    {
+      "file": "vegetables_eggplant.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f346.png",
+      "sha256": "fdfce7301735aa8704a458db2ebeba4eaf64b3ea94eaa160a2dec8e2b923a3c3"
+    },
+    {
+      "file": "vegetables_beans.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fad8.png",
+      "sha256": "e577ab33009cf2a44b512dfb0803912f8d700d91af2752924fb31275d5369ad5"
+    },
+    {
+      "file": "furniture_chair.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fa91.png",
+      "sha256": "f53cfc0525463867170255d2dc720f22c8c6bff3d80d630436581b88e8c221a7"
+    },
+    {
+      "file": "furniture_bed.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6cf.png",
+      "sha256": "5ed57a0a4976acb379a653ecc8d7a1b1354edc8628dcdc135fa265bd4dbc68d8"
+    },
+    {
+      "file": "furniture_sofa.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6cb.png",
+      "sha256": "7466ef18e361628efa67097adbc07d2ee14e76f8861f7930a2e8c9626b2e0000"
+    },
+    {
+      "file": "furniture_door.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6aa.png",
+      "sha256": "3dd4f9551244b4bec8715b461fc4d8f680793d08d5172b9937f53c29d87123d1"
+    },
+    {
+      "file": "furniture_mirror.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fa9e.png",
+      "sha256": "101b11ee012752480d4527ea764b68fd9562b8fbd29e88788e61567bd3761dc9"
+    },
+    {
+      "file": "furniture_window.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fa9f.png",
+      "sha256": "cef085bcdf1328571595dc779f23ac9970bacd92c1cfa0a09c339f6451f29b56"
+    },
+    {
+      "file": "furniture_bookshelf.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4da.png",
+      "sha256": "756d65f71743f7477190cb63c88a6b9bc7ef6d19267b566438dfc7092601ad7d"
+    },
+    {
+      "file": "furniture_table.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f37d.png",
+      "sha256": "83bc6e814fdce42cbdd6fd403154f297fa8ef13cf9d3bf6e7964b46473569865"
+    },
+    {
+      "file": "furniture_cabinet.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f5c4.png",
+      "sha256": "d78545d1b1b742280ee70b33444efde9ddd19bb652eaae4845105ff92ac0f92d"
+    },
+    {
+      "file": "furniture_desk.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4bb.png",
+      "sha256": "f1ecbe3fed1f05ec2bcc001d393911d1478b7ac739e9c1692717e52ef95e3a47"
+    },
+    {
+      "file": "furniture_picture.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f5bc.png",
+      "sha256": "03b5ec5934c729f7abf41d0b53fe8f906b08ae8121b5f6154c9320fdafdf26dc"
+    },
+    {
+      "file": "furniture_plant.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fab4.png",
+      "sha256": "55848dba7c3a58f65f6e5b34de40cb3a316ef67d3ec1f06995c369f77eb50cef"
+    },
+    {
+      "file": "clothes_shirt.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f455.png",
+      "sha256": "1d75af05dd37d7ab336367a3782529d191b91cc6dc1a1ae11619cbc083320934"
+    },
+    {
+      "file": "clothes_pants.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f456.png",
+      "sha256": "abd914300f5f263577285c2bac0a4568e0acaeb37cad1dd178c17021995a4c4b"
+    },
+    {
+      "file": "clothes_dress.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f457.png",
+      "sha256": "73fbcdf3b24ac6adf255c82e8f30e3460706bd13027eb88f1e69488a5ff991b4"
+    },
+    {
+      "file": "clothes_coat.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9e5.png",
+      "sha256": "468972e7a7291bd03f705794cce849ab16557a27360e0f6c073006a4b5b035c3"
+    },
+    {
+      "file": "clothes_socks.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9e6.png",
+      "sha256": "19be5991cfbc5004d37f6a64fc912752604b982b8fdb0de59536a75767f36884"
+    },
+    {
+      "file": "clothes_shoes.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f45f.png",
+      "sha256": "fdc21b07027c5c4c3bb9c5d64ab178730634396e75fa498e7a39ed5554e0c3f9"
+    },
+    {
+      "file": "clothes_boot.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f462.png",
+      "sha256": "a07ad71121793c53c7b8a797efcd6fba59ce0f77007aa071c4bcbf0153e217ce"
+    },
+    {
+      "file": "clothes_hat.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3a9.png",
+      "sha256": "2bbb1c8b28ccb54d26c0dea007fce7ac4fe5b311ac8c175aecc9195e59603d1c"
+    },
+    {
+      "file": "clothes_cap.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9e2.png",
+      "sha256": "d4f38840687a99624bc120a3b8a38945f32f3fc867c432e1d3130f530381f606"
+    },
+    {
+      "file": "clothes_scarf.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9e3.png",
+      "sha256": "f02d466d91d7c6e2abee79da83ee41bd93fd6152bd20471cb6ce5abb1ff2a842"
+    },
+    {
+      "file": "clothes_gloves.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9e4.png",
+      "sha256": "aa125f1b4e0c84dbcba8b17ab1db73283fc04510415804cf14502026df2ff8a0"
+    },
+    {
+      "file": "clothes_shorts.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fa73.png",
+      "sha256": "d205575aa6c9b656ddf974a07f561fd084f34f468a210a59da74fbfbbf7e35b1"
+    },
+    {
+      "file": "clothes_sandal.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fa74.png",
+      "sha256": "6fcb7fe2ac122299ced365bceb99f5201152ca95e1eb7baf3e26495bccca4cde"
+    },
+    {
+      "file": "clothes_handbag.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f45c.png",
+      "sha256": "8bb4f0e816b00618518f3e0f527174edc5e8eefa82c156254d16fb8387bdcee4"
+    },
+    {
+      "file": "clothes_backpack.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f392.png",
+      "sha256": "24a28d2fbe2501459ae4ff0e4bad01cfe4f19f00204f080505a4eb711b6af849"
+    },
+    {
+      "file": "clothes_glasses.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f453.png",
+      "sha256": "b1d7fc8d4e7d2555b26fa4d41f00bf0455bcdb1d3c1d99ba06f4b021ab16ad3d"
+    },
+    {
+      "file": "clothes_crown.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f451.png",
+      "sha256": "4d529929c1b7734d522c8c201f4f6f35b9b72b92e9b7fa669f5787d25f0ecd02"
+    },
+    {
+      "file": "clothes_umbrella.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f302.png",
+      "sha256": "b152a8c4c074a152d03dd541d78a82618bd38b8a1b34e5591b1d758ee2d103ce"
+    },
+    {
+      "file": "school_book.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4d5.png",
+      "sha256": "359266dfc37e2d68f78485064cafc698d0ed77ca0a3351d687382335634811f4"
+    },
+    {
+      "file": "school_notebook.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4d3.png",
+      "sha256": "e61c9d9c2bcc22ea06dbf89770e017a32d1fb3ba81eaef12d8700369f66e07b3"
+    },
+    {
+      "file": "school_pencil.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u270f.png",
+      "sha256": "6671e839f198c4c142d9ad3bfec690f0ef1dc31e0298d84e9e8941874c818d86"
+    },
+    {
+      "file": "school_pen.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f58a.png",
+      "sha256": "bf567ae8e7a3fa0889945bfe96251a3d22d587eeef7e55ac0babe72a890d1f93"
+    },
+    {
+      "file": "school_crayon.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f58d.png",
+      "sha256": "ff072d278911c0d76368fa3bcabdb086d638866e91f7bfff19926ae281ad31d6"
+    },
+    {
+      "file": "school_ruler.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4cf.png",
+      "sha256": "2c2952e9d3f743c7e359e2fe13b859cb98c84b8515b01a6a30ea8349b801216a"
+    },
+    {
+      "file": "school_scissors.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u2702.png",
+      "sha256": "71b36035c99bc410bc299dac2d71fbac75a74a7a2914bd723b00df04d4b337e9"
+    },
+    {
+      "file": "school_backpack.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f392.png",
+      "sha256": "1dc7ea5564c2f806db0db4f96a582d7ca5be1ae94e78755b3102f4f2454a732c"
+    },
+    {
+      "file": "school_globe.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f30e.png",
+      "sha256": "862a5c6f5f051b35fa4e0ae4d901159f14629ef0e1d5abe694028595ebe0b10a"
+    },
+    {
+      "file": "school_abacus.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9ee.png",
+      "sha256": "65e87a4ab838731b5be3b92eac0b02e29bcbfe5582cf100bb377eea5fee56b5b"
+    },
+    {
+      "file": "school_paint.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3a8.png",
+      "sha256": "fa66ec2ece0b1e9faa8100b615e6b6e2b821dd958b7bbef0b1cffbb6f1aebe66"
+    },
+    {
+      "file": "school_school.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3eb.png",
+      "sha256": "2911dce476fce1dedb17bf93c65b7621ab3d9b0bf7f397923348fb5f403df14a"
+    },
+    {
+      "file": "toys_ball.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u26bd.png",
+      "sha256": "d5e431f166357fd57dec79f3da3ee23fee7a0a9bf97ff5e4365987f1c8d82a9c"
+    },
+    {
+      "file": "toys_doll.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fa86.png",
+      "sha256": "cdc996c4ec877ee2391e3ba2694c8578686efeca282184022f425df222fb2ff3"
+    },
+    {
+      "file": "toys_teddy_bear.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9f8.png",
+      "sha256": "21b0c0f11ac533a30abe55a160a2b09da00c4965f49649d033c41806603fb4c6"
+    },
+    {
+      "file": "toys_blocks.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9f1.png",
+      "sha256": "bad5ce4b1b68df1651c525f85947be4c81bdfd7fb008418934cc837324932fff"
+    },
+    {
+      "file": "toys_puzzle.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9e9.png",
+      "sha256": "9b3e8f235ee29a64979b16dcebbf9bab60eba89a04941b7403340f64055c439c"
+    },
+    {
+      "file": "toys_kite.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fa81.png",
+      "sha256": "dc6feb53064436a82bc05d250315a4d429d973fd6f00f2b9ecf8c26aaeddfea0"
+    },
+    {
+      "file": "toys_yo_yo.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fa80.png",
+      "sha256": "2117bf8985b1489ebb1a707315e0468500cb9a02407c0754faeac68a71bc374b"
+    },
+    {
+      "file": "toys_video_game.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3ae.png",
+      "sha256": "09921abd4ca2558770a6afec331ec64c3d687d7b1dc1e22b3d7432ec923a7dfe"
+    },
+    {
+      "file": "toys_drum.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f941.png",
+      "sha256": "dd1c720d8908e8140307d197eb80533bc66921e1379341a078f31d874f64d127"
+    },
+    {
+      "file": "toys_toy_train.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f682.png",
+      "sha256": "e64178c2b3593d2cf4fe28889f17787f05ab5c59e4bebdef5bbb23b4fdea5f32"
+    },
+    {
+      "file": "toys_toy_car.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f697.png",
+      "sha256": "77c549aad1b0fa1b065feb668ab2cea651ae8bdff978faab1c93c87857c158c8"
+    },
+    {
+      "file": "toys_balloon.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f388.png",
+      "sha256": "a5f1ab7137d587943279324491ade4a6388d435de480d740b79f0f616d09d549"
+    },
+    {
+      "file": "family_baby.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f476.png",
+      "sha256": "391becdc61ca44e63d4030b20af71b4bbcf559e64f96c38f29dd08dba49ab517"
+    },
+    {
+      "file": "family_girl.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f467.png",
+      "sha256": "9bfea7b134948f89d85b06b15704bd3db03773564b31748105997312c86099bb"
+    },
+    {
+      "file": "family_boy.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f466.png",
+      "sha256": "2306836b905b54824ab4402fe9088780d41df9b108e3096045ae8cceb9db4727"
+    },
+    {
+      "file": "family_mother.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f469.png",
+      "sha256": "9fe2cad4699930d4660961f9963536b31482cbd946c13c030d76b550c19caf29"
+    },
+    {
+      "file": "family_father.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f468.png",
+      "sha256": "2151ec5422db69c92985cace6307573017ae2d862841c9abbcbf23ec3f51148f"
+    },
+    {
+      "file": "family_grandmother.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f475.png",
+      "sha256": "5fa66904451ec194797d280a5196401186dfc05c7913c9c1d06c171375594a1b"
+    },
+    {
+      "file": "family_grandfather.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f474.png",
+      "sha256": "d2117ea558d10d863a17e87b4ddf236ff30258e536e597789f0456a100f8ab51"
+    },
+    {
+      "file": "family_sister.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9d2.png",
+      "sha256": "90a37015d17d7b1e7fcd975052a9f57b39cc12b5c32202ce1d6c1ecca0885dbf"
+    },
+    {
+      "file": "family_brother.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9d1.png",
+      "sha256": "eb1da3a6d2040c09f8831ac56ed3456b4065933dad5665f309cdab76c4f11a48"
+    },
+    {
+      "file": "family_family.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f46a.png",
+      "sha256": "982d2ed7a6852d3501fc2ecd89b380e65309736e5c696c2f9ac0ff7b07aa1e90"
+    },
+    {
+      "file": "food_bread.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f35e.png",
+      "sha256": "e1984c3799529815b07e187707e5c46917db26455ee41e2240e130f3445d3229"
+    },
+    {
+      "file": "food_rice.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f35a.png",
+      "sha256": "e91fde36372e9fa43a03afe61a8f01e893e83997e465d8c6670ad809a99de0d2"
+    },
+    {
+      "file": "food_egg.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f95a.png",
+      "sha256": "241e43931f701e09abf0c33433c5b5dec46f6c29f51d2c8bd565cabde45af816"
+    },
+    {
+      "file": "food_cheese.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9c0.png",
+      "sha256": "7134dcf08cfa75afd06d744ba490c025842eb7189f1dc4a89786e2306e22861f"
+    },
+    {
+      "file": "food_pizza.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f355.png",
+      "sha256": "deb02403d5794a100fa73f9a96f2c6d5aad090ea84296ef7143c6fe2046c653d"
+    },
+    {
+      "file": "food_sandwich.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f96a.png",
+      "sha256": "81866ade992cea02b6400a79934b094f5bd66c6b5417704fcd477b4dfbdf89e2"
+    },
+    {
+      "file": "food_noodles.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f35c.png",
+      "sha256": "77245a2074a0169e85c40a5f8ec5d8d0f64e2d170722241d74def49f45e0c1e3"
+    },
+    {
+      "file": "food_soup.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f372.png",
+      "sha256": "af773fd5aa9a396795ff19ab47b4de07e126d5cfdf0a3bbd17d0844439d305f3"
+    },
+    {
+      "file": "food_chicken.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f357.png",
+      "sha256": "30c2c4b8ceb08fe718d597f341fc02f8a7af96396cf53151f0ae35ad6846f802"
+    },
+    {
+      "file": "food_fish.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f363.png",
+      "sha256": "cf75bd3bf56bfb1c1ccf7fcad2b475f2b6ac22dc68169801541e202ab38bb436"
+    },
+    {
+      "file": "food_hamburger.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f354.png",
+      "sha256": "8478198ff106f802c78ee53aa87cb89a9fee107954f00e4431b0a4a6665093df"
+    },
+    {
+      "file": "food_fries.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f35f.png",
+      "sha256": "154056f673efe0c2bfb0693d792d15b717a90a387ca510218d2d6f1cdb21149d"
+    },
+    {
+      "file": "food_cake.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f370.png",
+      "sha256": "94189bdc7929a50bebcffebf73c3e30e82ff0659ac9d4d6aaac4c6a09a503cfa"
+    },
+    {
+      "file": "food_cookie.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f36a.png",
+      "sha256": "a25a73b3eccdbac0fc2bde401e63478ebc0cf630963c9b30092621c9dd6a26c1"
+    },
+    {
+      "file": "food_ice_cream.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f366.png",
+      "sha256": "8002843ff44211dab2142b3531d3c2cb262fa9b441cb05fbfa2bc3242ba4cb23"
+    },
+    {
+      "file": "drinks_water.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4a7.png",
+      "sha256": "3fe80ec3a7fe50f090c387084c3eee05191c995df984c49b96c7124135ee1233"
+    },
+    {
+      "file": "drinks_milk.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f95b.png",
+      "sha256": "5531c14c391ad8b20b3009adcb14667e1c7296f7367634052f74c9f167c9f2a2"
+    },
+    {
+      "file": "drinks_juice.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9c3.png",
+      "sha256": "636bc0da60eb797467e7da9e86c5952d2a72041ac3771d10085a0a1190bc73b3"
+    },
+    {
+      "file": "drinks_tea.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f375.png",
+      "sha256": "0e3257331a6211ba1bc4005bdec4d1640bddc9bfeebd01576a16ff1f9edd5461"
+    },
+    {
+      "file": "drinks_cocoa.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u2615.png",
+      "sha256": "600b2a44ea1d08bb6ca73e5c734ae2255d92fe80870b43fc569c11a61c5ded24"
+    },
+    {
+      "file": "drinks_lemonade.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f379.png",
+      "sha256": "b675be5542607e69f3cf1b1d603d079328317f46d09d4de3e18ea6a7ae7bd2b3"
+    },
+    {
+      "file": "drinks_smoothie.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f964.png",
+      "sha256": "b16980f606afcc03ab6b255e7bb53c2ad22ca9bc0c8bd9bba4d48bcc005f327c"
+    },
+    {
+      "file": "drinks_coconut_water.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f965.png",
+      "sha256": "0b5d0711d27d4a65bd984f3f754fd8b44c05b01bde80e4b6f50e090e3e296572"
+    },
+    {
+      "file": "weather_sunny.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u2600.png",
+      "sha256": "4aa53220488fb9fcc389856f88b17a450d03a8c8bfcd5f1ce846f19a54c8c404"
+    },
+    {
+      "file": "weather_cloudy.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u2601.png",
+      "sha256": "75c00ef94cf2b6459f438233c2f6c1532765c17cff1c49c7d98408e513e81e54"
+    },
+    {
+      "file": "weather_rainy.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f327.png",
+      "sha256": "36547c8c358bd7298d31e0c7e6e6709da382a3ea4a4ee3ce21d25e15b9074c66"
+    },
+    {
+      "file": "weather_stormy.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u26c8.png",
+      "sha256": "04e8864d0d8d667c462b6f8627187c6fb5531622f61ad1c2a8c3e43ad978f299"
+    },
+    {
+      "file": "weather_snowy.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f328.png",
+      "sha256": "908818422de178c087dfebd31d4856dd7c6585e9f79ab32706099ea4ce81b581"
+    },
+    {
+      "file": "weather_windy.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f32c.png",
+      "sha256": "63aa92678e5c337503aa268913efa672f2be2c431db91087956e6ba1769b07a5"
+    },
+    {
+      "file": "weather_hot.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f975.png",
+      "sha256": "f3609abf2e0ee36c810cc9bd69219757aad11a07bfe89ed01c7c12e49573d4ae"
+    },
+    {
+      "file": "weather_cold.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f976.png",
+      "sha256": "966b56d579ed1b9e9fbbefff711810fa1a85e74eb78678915bb37d9671e94041"
+    },
+    {
+      "file": "jobs_doctor.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fa7a.png",
+      "sha256": "0a141f4ae2c3bf86ecada877ef5266e70c0c04fa23da0a66093a388273eed0cf"
+    },
+    {
+      "file": "jobs_nurse.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3e5.png",
+      "sha256": "7e767473b4ccb2ed81c34d577c4a4e0719a3d4a173cd1fdb84ff914dc633cd6d"
+    },
+    {
+      "file": "jobs_teacher.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3eb.png",
+      "sha256": "e602dbe2b21ba036d4af161f9b6ae0cc06689852c166f2e5fab4d30cb583337e"
+    },
+    {
+      "file": "jobs_police_officer.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f46e.png",
+      "sha256": "366acc726c70a85f5b2b22f22caa02c9024768b36d6213f2b66f24a9b33c80f8"
+    },
+    {
+      "file": "jobs_firefighter.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f692.png",
+      "sha256": "8c82777dbc6327894f7e6307fd0c61372e99166e75ff6aa38d039f845b869e9d"
+    },
+    {
+      "file": "jobs_cook.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f373.png",
+      "sha256": "bd0a0fe2eeb1772306c05b8d3cb0d4e5b1c2641c735c24e744cc3d0d5b396809"
+    },
+    {
+      "file": "jobs_farmer.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f69c.png",
+      "sha256": "b249934d6e04270a0571a4a2fe0695e3be6761d29b758dbbe78a2f8ff74ccc84"
+    },
+    {
+      "file": "jobs_builder.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f477.png",
+      "sha256": "9ec16bd149359911cfad7562aa500b50da477a00d6715c2106cd60b25109ce2b"
+    },
+    {
+      "file": "jobs_driver.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f695.png",
+      "sha256": "3c576d7b66ff39cb1fed55220f7d70e038af72ce610979c5b7dc7e2968d38e05"
+    },
+    {
+      "file": "jobs_pilot.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u2708.png",
+      "sha256": "e272944c2e9b662d40b5b95feeeeb238418d36aa9873c50018c89d3d3a06b1f1"
+    },
+    {
+      "file": "jobs_singer.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3a4.png",
+      "sha256": "36cbed62297d31c9fa8907ecc37126302387425449a9db53200f3c5993905485"
+    },
+    {
+      "file": "jobs_artist.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3a8.png",
+      "sha256": "96d62ea5cece72bb9c327b682dff1fc442e998aea2b7dcc53fa19f11ffdc9ccc"
+    },
+    {
+      "file": "actions_run.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3c3.png",
+      "sha256": "7c929fafde0daf77072ce964071ee7afd2ddc1a524b481840c5266cdfdee18a9"
+    },
+    {
+      "file": "actions_walk.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f6b6.png",
+      "sha256": "def93fbcb7a330e6c73610bb144202e5e2f73be674411e37129f9d90f338c93f"
+    },
+    {
+      "file": "actions_jump.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f938.png",
+      "sha256": "2cc8de8dcc327962bc87b1eb34d3bc1219820421af01c8516df7b761569c1f16"
+    },
+    {
+      "file": "actions_sit.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1fa91.png",
+      "sha256": "4e99330f069cf95e9efed4a9f5af6bcbd369b31b4fe10cb5c94ab2f4d10fff2b"
+    },
+    {
+      "file": "actions_sleep.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f634.png",
+      "sha256": "1f639c34fd9987d9ebe864c911c8fe3a09d5da6182cde62da9301a981a8801fb"
+    },
+    {
+      "file": "actions_eat.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f37d.png",
+      "sha256": "e6cedbc26919209340f64a56841ce2bdc77c5074d96d85fc92889bb90c7d3755"
+    },
+    {
+      "file": "actions_drink.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f964.png",
+      "sha256": "1cda8c5070fa911ad554cb1aa62d79eac2e711659acefc820af48470c172c564"
+    },
+    {
+      "file": "actions_clap.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f44f.png",
+      "sha256": "ec84a0d4de6272e8ed3f00ac2767355e9c707d1808f768a35980c2a4bede9bf7"
+    },
+    {
+      "file": "actions_dance.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f483.png",
+      "sha256": "334a85ac74f22c8ca7ee5743877c05a806ac59d024e81820827fe376e3736208"
+    },
+    {
+      "file": "actions_swim.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3ca.png",
+      "sha256": "8b9b906f9814fe05581bf4b31002c0438effc849aae450f0ba1c3e2ea7f28d57"
+    },
+    {
+      "file": "actions_read.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4d6.png",
+      "sha256": "126c06d5def48f15296da1d3e1134e8f8ca21c127930c6567e25bcb93799e45c"
+    },
+    {
+      "file": "actions_write.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u270d.png",
+      "sha256": "2bf90fdd6ad6fce92eca38367efef3828a068f6188567a3bd81d6a39de79cf6b"
+    },
+    {
+      "file": "actions_play.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u26bd.png",
+      "sha256": "179c487fb9fbb7ab80628f10a8c5c1f5b2e5dd36ea2ea2b40e8953b21bc4f424"
+    },
+    {
+      "file": "actions_sing.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f3a4.png",
+      "sha256": "fe79b5f52bba4008c92461eae998484bda76d03f953d7ce4b84679a828b53730"
+    },
+    {
+      "file": "actions_wash.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f9fc.png",
+      "sha256": "adf31771637f7295acccc9b5214b8efd68df10fe387a3f2a19d0830b5ec65391"
+    },
+    {
+      "file": "school_computer.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4bb.png",
+      "sha256": "4f0a029ec8c6b34b6f99e43569baed228edfac770b13d216a9ca23b672ce51d7"
+    },
+    {
+      "file": "school_camera.png",
+      "source": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/512/emoji_u1f4f7.png",
+      "sha256": "24e0d488150cab4bc8d8750d878cdd7f3cc4e4be32821d1a33616a1453c2578d"
+    }
+  ]
+}
